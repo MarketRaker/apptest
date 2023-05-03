@@ -1,0 +1,79 @@
+[
+  {
+    "title": "5% Risk",
+    "description": "Slide 1 Description",
+    "imageUrl": "assets/images/auth-risk-selection/risk_5.png",
+    "slideId": "ngb-slide-0",
+    "value": 5
+  },
+  {
+    "title": "10% Risk",
+    "description": "Slide 2 Description",
+    "imageUrl": "assets/images/auth-risk-selection/risk_10.png",
+    "slideId": "ngb-slide-1",
+    "value": 10
+  },
+  {
+    "title": "20% Risk",
+    "description": "Slide 3 Description",
+    "imageUrl": "assets/images/auth-risk-selection/risk_20.png",
+    "slideId": "ngb-slide-2",
+    "value": 20
+  },
+  {
+    "title": "30% Risk",
+    "description": "Slide 3 Description",
+    "imageUrl": "assets/images/auth-risk-selection/risk_30.png",
+    "slideId": "ngb-slide-3",
+    "value": 30
+  },
+  {
+    "title": "40% Risk",
+    "description": "Slide 3 Description",
+    "imageUrl": "assets/images/auth-risk-selection/risk_40.png",
+    "slideId": "ngb-slide-4",
+    "value": 40
+  },
+  {
+    "title": "50% Risk",
+    "description": "Slide 3 Description",
+    "imageUrl": "assets/images/auth-risk-selection/risk_50.png",
+    "slideId": "ngb-slide-5",
+    "value": 50
+  },
+  {
+    "title": "60% Risk",
+    "description": "Slide 3 Description",
+    "imageUrl": "assets/images/auth-risk-selection/risk_60.png",
+    "slideId": "ngb-slide-6",
+    "value": 60
+  },
+  {
+    "title": "70% Risk",
+    "description": "Slide 3 Description",
+    "imageUrl": "assets/images/auth-risk-selection/risk_70.png",
+    "slideId": "ngb-slide-7",
+    "value": 70
+  },
+  {
+    "title": "80% Risk",
+    "description": "Slide 3 Description",
+    "imageUrl": "assets/images/auth-risk-selection/risk_80.png",
+    "slideId": "ngb-slide-8",
+    "value": 80
+  },
+  {
+    "title": "90% Risk",
+    "description": "Slide 3 Description",
+    "imageUrl": "assets/images/auth-risk-selection/risk_90.png",
+    "slideId": "ngb-slide-9",
+    "value": 90
+  },
+  {
+    "title": "99% Risk",
+    "description": "Slide 3 Description",
+    "imageUrl": "assets/images/auth-risk-selection/risk_99.png",
+    "slideId": "ngb-slide-10",
+    "value": 99
+  }
+]
