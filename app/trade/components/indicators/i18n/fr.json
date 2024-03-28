@@ -1,0 +1,20 @@
+{
+  "indicators.future_predictions_tooltip": "Prédictions futures",
+  "indicators.todays_predictions_tooltip": "Prédictions du jour",
+  "indicators.historical_predictions_tooltip": "Prédictions historiques",
+  "indicators.coming_up_button": "À venir",
+  "indicators.coming_up_no_access_tooltip": "Prédictions futures (PAS D'ACCÈS - Uniquement pour les membres Pro de MRU)",
+  "indicators.today_button": "Aujourd'hui",
+  "indicators.completed_button": "Terminé",
+  "indicators.switch_to_grid_view": "Passer à la vue Grille",
+  "indicators.switch_to_list_view": "Passer à la vue Liste",
+  "indicators.future_price_predictions": "Bientôt sur MarketRaker : Prédictions des prix futurs ! Notre prochaine fonctionnalité prédira les prix 12 heures à l'avance, vous offrant une perspective de 24 heures sur vos paires de trading. Cet outil innovant, tirant parti de l'IA avancée, est conçu pour vous garder une longueur d'avance dans le jeu du trading. Restez à l'écoute pour son lancement en 2024 – une autre étape vers un trading plus intelligent et informé avec MarketRaker. 🚀📈",
+  "indicators.current_model_predictions": "Le modèle actuel de MarketRaker prédit les mouvements du marché 12 heures à partir de la date prévue. Cette fonctionnalité permet aux traders de planifier leurs stratégies avec une avance d'une demi-journée, améliorant la prise de décision avec prévoyance et précision. Restez en avance dans votre parcours de trading avec les insights prospectifs de MarketRaker. Le modèle sera amélioré et renforcé au fil du temps. 🚀🔮",
+  "indicators.historical_indicators_intro": "Introduction aux indicateurs historiques de MarketRaker ! Complétant les prédictions d'avance de 12 heures de notre modèle, cette fonctionnalité vous permet de revoir les tendances du marché passé. Gagnez en perspicacité grâce à la performance de notre modèle pour améliorer votre stratégie. MarketRaker combine rétrospection et anticipation, s'améliorant continuellement pour votre succès commercial. 🚀🔮📊",
+  "indicators.toggle_market_expansion": "Activer/Désactiver l'Expansion du Marché",
+  "indicators.see_all_trading_pairs": "Voir Tous les Paires de Trading",
+  "indicators.market_indicators": "Indicateurs de Marché",
+  "screen_too_small": "Écran trop petit pour afficher la vue en liste. Passage à la vue en grille.",
+  "validity_summary": "Sur les {{totalNumOfTrades}} indicateurs, {{numvalidTrades}} étaient corrects avec un taux de réussite de {{hitRatePercentage}}%.",
+  "validity_summary_2": "Sur les {{totalNumOfTrades}} indicateurs, {{numOfTradesAnalysed}} ont été analysés. Jusqu'à présent, {{numvalidTrades}} étaient corrects avec un taux de réussite de {{hitRatePercentage}}%."
+}

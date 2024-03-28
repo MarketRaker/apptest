@@ -1,0 +1,40 @@
+{
+  "docs_nav_tree.node_1.name": "Einführung",
+  "docs_nav_tree.node_1.children_1.name": "Was ist MarketRaker",
+  "docs_nav_tree.node_1.children_2.name": "Überblick über die Funktionen",
+  "docs_nav_tree.node_1.children_3.name": "Wie funktioniert MarketRaker",
+
+  "docs_nav_tree.node_2.name": "Erste Schritte",
+  "docs_nav_tree.node_2.children_1.name": "Erste Schritte Anleitung",
+  "docs_nav_tree.node_2.children_2.name": "Installation und Einrichtung",
+  "docs_nav_tree.node_2.children_3.name": "Dashboard-Navigation",
+  "docs_nav_tree.node_2.children_4.name": "Telegram Integration",
+  "docs_nav_tree.node_2.children_5.name": "Discord Integration",
+  "docs_nav_tree.node_2.children_6.name": "WebHooks Integration",
+
+  "docs_nav_tree.node_3.name": "Tutorials (Unvollständig)",
+  "docs_nav_tree.node_3.children_1.name": "Einrichten von Indikatoren",
+  "docs_nav_tree.node_3.children_2.name": "Interpretation von KI-Erkenntnissen",
+  "docs_nav_tree.node_3.children_3.name": "Anpassung von KI-Modellen",
+  "docs_nav_tree.node_3.children_4.name": "Integration mit Handelsplattformen",
+  "docs_nav_tree.node_3.children_5.name": "Einrichten von Benachrichtigungen",
+
+  "docs_nav_tree.node_4.name": "Referenzen",
+  "docs_nav_tree.node_4.children_1.name": "FAQs",
+  "docs_nav_tree.node_4.children_2.name": "API-Dokumentation",
+  "docs_nav_tree.node_4.children_3.name": "Glossar",
+
+  "docs_nav_tree.node_5.name": "Community & Support",
+  "docs_nav_tree.node_5.children_1.name": "Discord beitreten",
+  "docs_nav_tree.node_5.children_2.name": "Telegram beitreten",
+  "docs_nav_tree.node_5.children_3.name": "Support kontaktieren",
+
+  "docs_nav_tree.node_6.name": "Versionshinweise & Updates",
+
+  "docs_nav_tree.node_7.name": "Whitepaper v1.0",
+  "docs_nav_tree.node_7.children_1.name": "Einführung",
+  "docs_nav_tree.node_7.children_1.children_1.name": "Kernidee und Wertversprechen",
+  "docs_nav_tree.node_7.children_1.children_2.name": "Nutzung fortschrittlicher Technologien",
+  "docs_nav_tree.node_7.children_1.children_3.name": "Ein ganzheitlicher Ansatz",
+  "translations_coming_soon": "Übersetzungen für die Dokumentation werden bald verfügbar sein."
+}
