@@ -1,0 +1,15 @@
+{
+  "weekly_indicators.title": "المؤشرات الأسبوعية",
+  "weekly_indicators.bull_market": "سوق الثور",
+  "weekly_indicators.bear_market": "سوق الدب",
+  "weekly_indicators.loading_bull_indicators": "جاري تحميل مؤشرات سوق الثور...",
+  "weekly_indicators.no_bull_indicators_available": "لا توجد مؤشرات لسوق الثور متاحة.",
+  "weekly_indicators.loading_bear_indicators": "جاري تحميل مؤشرات سوق الدب...",
+  "weekly_indicators.no_bear_indicators_available": "لا توجد مؤشرات لسوق الدب متاحة.",
+  "weekly_indicators.show_more": "عرض المزيد",
+  "weekly_indicators.show_less": "عرض أقل",
+  "weekly_indicators.indicators": "المؤشرات",
+  "weekly_indicators.bull_market_winning": "السوق الصاعد يفوز!",
+  "weekly_indicators.bear_market_winning": "السوق الهابط يفوز!",
+  "weekly_indicators.tie": "إنها تعادل!"
+}

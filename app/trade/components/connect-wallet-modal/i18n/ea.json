@@ -1,0 +1,10 @@
+{
+  "filter.all": "الكل",
+  "filter.crypto": "العملات المشفرة",
+  "filter.search": "البحث",
+  "filter.see_all_trading_pairs": "شاهد جميع أزواج التداول",
+  "filter.stocks": "الاسهم",
+  "filter.your_market_settings": "إعدادات السوق الخاصة بك",
+  "filter.your_preferred_market": "أسواقك المفضلة",
+  "wallet_not_installed": "المحفظة غير مثبتة"
+}

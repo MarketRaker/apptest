@@ -1,0 +1,13 @@
+{
+  "indicator-header.action": "الإجراء",
+  "indicator-header.time": "الوقت",
+  "indicator-header.trend": "الاتجاه",
+  "indicator-header.trading_pair": "زوج التداول",
+  "indicator-header.current_price": "السعر الحالي",
+  "indicator-header.trade_on": "تداول على",
+  "indicator-header.close": "إغلاق",
+  "indicator-header.percentage_change": "نسبة التغير",
+  "indicator-header.risk": "المخاطرة",
+  "indicator-header.leverage": "الرافعة المالية",
+  "indicator-header.stop_loss": "وقف الخسارة"
+}
