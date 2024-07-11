@@ -1,0 +1,40 @@
+{
+  "docs_nav_tree.node_1.name": "Introduction",
+  "docs_nav_tree.node_1.children_1.name": "What is MarketRaker",
+  "docs_nav_tree.node_1.children_2.name": "Features Overview",
+  "docs_nav_tree.node_1.children_3.name": "How MarketRaker Works",
+
+  "docs_nav_tree.node_2.name": "Getting Started",
+  "docs_nav_tree.node_2.children_1.name": "First Time User Guide",
+  "docs_nav_tree.node_2.children_2.name": "Installation & Setup",
+  "docs_nav_tree.node_2.children_3.name": "Navigating the Dashboard",
+  "docs_nav_tree.node_2.children_4.name": "Telegram Integration",
+  "docs_nav_tree.node_2.children_5.name": "Discord Integration",
+  "docs_nav_tree.node_2.children_6.name": "WebHooks Integration",
+
+  "docs_nav_tree.node_3.name": "Tutorials (Incomplete)",
+  "docs_nav_tree.node_3.children_1.name": "Setting Up Indicators",
+  "docs_nav_tree.node_3.children_2.name": "Interpreting AI Insights",
+  "docs_nav_tree.node_3.children_3.name": "Customizing AI Models",
+  "docs_nav_tree.node_3.children_4.name": "Integration with Trading Platforms",
+  "docs_nav_tree.node_3.children_5.name": "Setting Up Alerts",
+
+  "docs_nav_tree.node_4.name": "References",
+  "docs_nav_tree.node_4.children_1.name": "FAQs",
+  "docs_nav_tree.node_4.children_2.name": "API Documentation",
+  "docs_nav_tree.node_4.children_3.name": "Glossary",
+
+  "docs_nav_tree.node_5.name": "Community & Support",
+  "docs_nav_tree.node_5.children_1.name": "Join our Discord",
+  "docs_nav_tree.node_5.children_2.name": "Join our Telegram",
+  "docs_nav_tree.node_5.children_3.name": "Contact Support",
+
+  "docs_nav_tree.node_6.name": "Release Notes & Updates",
+
+  "docs_nav_tree.node_7.name": "White Paper v1.0",
+  "docs_nav_tree.node_7.children_1.name": "Introduction",
+  "docs_nav_tree.node_7.children_1.children_1.name": "Core Idea and Value Proposition",
+  "docs_nav_tree.node_7.children_1.children_2.name": "Harnessing Advanced Technologies",
+  "docs_nav_tree.node_7.children_1.children_3.name": "A Holistic Approach",
+  "translations_coming_soon": "Translations for the documentation are coming soon."
+}

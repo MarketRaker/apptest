@@ -1,0 +1,13 @@
+{
+  "indicators.future_predictions_tooltip": "Predicciones futuras",
+  "indicators.todays_predictions_tooltip": "Predicciones de hoy",
+  "indicators.historical_predictions_tooltip": "Predicciones históricas",
+  "indicators.coming_up_button": "Próximamente",
+  "indicators.today_button": "Últimas 24 horas",
+  "indicators.completed_button": "Completado",
+  "indicators.switch_to_grid_view": "Cambiar a vista de cuadrícula",
+  "indicators.switch_to_list_view": "Cambiar a vista de lista",
+  "indicators.future_price_predictions": "Esta función pronostica los precios con 24 horas de anticipación, brindándote una perspectiva de 24 horas sobre tus pares de trading. Esta innovadora herramienta, que aprovecha la IA avanzada, está diseñada para mantenerte un paso adelante en el juego del trading. 🚀📈",
+  "indicators.current_model_predictions": "El modelo actual de MarketRaker predice movimientos del mercado 12 horas desde la fecha pronosticada. Esta característica permite a los traders planificar sus estrategias con medio día de anticipación, mejorando la toma de decisiones con previsión y precisión. Mantente adelante en tu viaje de trading con las perspectivas de futuro de MarketRaker. El modelo se mejorará y enriquecerá con el tiempo. 🚀🔮",
+  "indicators.historical_indicators_intro": "¡Introduciendo los Indicadores Históricos de MarketRaker! Complementando las predicciones avanzadas de 12 horas de nuestro modelo, esta característica te permite revisar tendencias del mercado pasado. Obtén insights del rendimiento de nuestro modelo para mejorar tu estrategia. MarketRaker combina la retrospectiva con la previsión, mejorando continuamente para tu éxito en el trading. 🚀🔮📊"
+}

@@ -1,0 +1,14 @@
+{
+  "risk_scenario_1": "Risk Level 1 (Very Low Risk): Scenario: I am willing to risk 5% of my initial investment of $1000. This means I'm okay with losing $50 and aim to make a profit of $100.",
+  "risk_scenario_2": "Risk Level 2 (Low Risk): Scenario: I am willing to risk 10% of my initial investment of $1000. This means I'm okay with losing $100 and aim to make a profit of $200.",
+  "risk_scenario_3": "Risk Level 3 (Low to Moderate Risk): Scenario: I am willing to risk 15% of my initial investment of $1000. This means I'm okay with losing $150 and aim to make a profit of $300.",
+  "risk_scenario_4": "Risk Level 4 (Moderate Risk): Scenario: I am willing to risk 20% of my initial investment of $1000. This means I'm okay with losing $200 and aim to make a profit of $400.",
+  "risk_scenario_5": "Risk Level 5 (Moderate to High Risk): Scenario: I am willing to risk 25% of my initial investment of $1000. This means I'm okay with losing $250 and aim to make a profit of $500.",
+  "risk_scenario_6": "Risk Level 6 (High Risk): Scenario: I am willing to risk 30% of my initial investment of $1000. This means I'm okay with losing $300 and aim to make a profit of $600.",
+  "risk_scenario_7": "Risk Level 7 (Very High Risk): Scenario: I am willing to risk 35% of my initial investment of $1000. This means I'm okay with losing $350 and aim to make a profit of $700.",
+  "risk_scenario_8": "Risk Level 8 (Extremely High Risk): Scenario: I am willing to risk 40% of my initial investment of $1000. This means I'm okay with losing $400 and aim to make a profit of $800.",
+  "risk_scenario_9": "Risk Level 9 (Almost Complete Risk): Scenario: I am willing to risk 50% of my initial investment of $1000. This means I'm okay with losing $500 and aim to make a profit of $1000.",
+  "risk_scenario_10": "Risk Level 10 (Complete Risk): Scenario: I am willing to risk 60% of my initial investment of $1000. This means I'm okay with losing $600 and aim to make a profit of $1200.",
+  "risk_appetite_updated_successfully": "Successfully updated risk appetite",
+  "failed_to_update_risk_appetite": "Failed to update risk appetite"
+}

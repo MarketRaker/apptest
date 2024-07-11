@@ -1,0 +1,19 @@
+{
+  "indicators.future_predictions_tooltip": "التوقعات المستقبلية",
+  "indicators.todays_predictions_tooltip": "توقعات اليوم",
+  "indicators.historical_predictions_tooltip": "التوقعات التاريخية",
+  "indicators.coming_up_button": "القادم",
+  "indicators.today_button": "آخر 24 ساعة",
+  "indicators.completed_button": "مكتمل",
+  "indicators.switch_to_grid_view": "التبديل إلى عرض الشبكة",
+  "indicators.switch_to_list_view": "التبديل إلى عرض القائمة",
+  "indicators.future_price_predictions": "تتنبأ هذه الميزة بالأسعار قبل 24 ساعة، مما يمنحك نظرة مستقبلية على أزواج التداول الخاصة بك لمدة 24 ساعة. تم تصميم هذه الأداة المبتكرة، التي تستفيد من الذكاء الاصطناعي المتقدم، لإبقائك متقدمًا في لعبة التداول. 🚀📈. 🚀📈",
+  "indicators.current_model_predictions": "يتنبأ النموذج الحالي لـ ماركت ريكر بحركات السوق 12 ساعة من التاريخ المتوقع. تتيح هذه الميزة للمتداولين التخطيط لاستراتيجياتهم بفارق نصف يوم، مما يعزز من صنع القرار برؤية ودقة. ابق في طليعة رحلتك التجارية مع الرؤى التطلعية لـ ماركت ريكر. سيتم تحسين النموذج وتعزيزه بمرور الوقت. 🚀🔮",
+  "indicators.historical_indicators_intro": "تقديم مؤشرات ماركت ريكر التاريخية! كمكمل لتوقعاتنا المتقدمة 12 ساعة، تتيح لك هذه الميزة مراجعة اتجاهات السوق الماضية. اكتسب رؤى من أداء نموذجنا لتحسين استراتيجيتك. يجمع ماركت ريكر بين الرؤية الاسترجاعية والتطلعية، مع التحسين المستمر لنجاح تداولك. 🚀🔮📊",
+  "indicators.toggle_market_expansion": "تبديل توسيع السوق",
+  "indicators.see_all_trading_pairs": "عرض جميع أزواج التداول",
+  "indicators.market_indicators": "مؤشرات السوق",
+  "screen_too_small": "الشاشة صغيرة جدًا لعرض عرض القائمة. الانتقال إلى عرض الشبكة.",
+  "validity_summary": "من بين {{totalNumOfTrades}} المؤشرات، كانت {{numvalidTrades}} صحيحة بنسبة نجاح {{hitRatePercentage}}%.",
+  "validity_summary_2": "من بين {{totalNumOfTrades}} المؤشرات، تم تحليل {{numOfTradesAnalysed}} حتى الآن، وكانت {{numvalidTrades}} صحيحة بنسبة نجاح {{hitRatePercentage}}%."
+}

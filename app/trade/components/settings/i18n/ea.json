@@ -1,0 +1,11 @@
+{
+  "indicators.go_back": "الرجوع",
+  "indicators.market_settings_title": "إعدادات السوق الخاصة بك",
+  "indicators.manage_notifications": "إدارة الإشعارات الخاصة بك",
+  "indicators.notifications_info": "تمكين أو تعطيل الإشعارات للأسواق التي تهتم بها. اختر إذا كنت ترغب في تلقي الإشعارات للشراء أو البيع أو كليهما. لإزالة سوق من قائمة المشاهدة الخاصة بك انقر على \"X\".",
+  "indicators.all": "الكل",
+  "indicators.stocks": "الأسهم",
+  "indicators.crypto": "العملات المشفرة",
+  "indicators.search": "بحث",
+  "indicators.confirmation_message": "هل أنت متأكد أنك تريد إزالة هذا الزوج من قائمة المراقبة الخاصة بك؟"
+}
