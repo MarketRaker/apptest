@@ -1,0 +1,208 @@
+@use "../../../../styles.scss" as styles;
+
+@mixin flex-column {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+:host {
+  --cta-size: 4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.container {
+  flex: 1 1 auto;
+  justify-content: space-evenly;
+  align-items: center;
+
+  width: 60%;
+  margin-inline: auto;
+
+  background-color: var(--text-light);
+  margin-top: var(--app-spacing-xxl);
+  margin-bottom: var(--app-spacing-xxl);
+  border-radius: 20px;
+  padding: var(--app-spacing-xxl);
+
+  @media screen and (min-width: 920px) {
+    min-width: 736px; //ensures a smooth transition
+  }
+
+  @media screen and (max-width: 920px) {
+    min-width: none;
+    padding: var(--app-spacing-l);
+    width: 80%;
+  }
+
+  @media screen and (max-width: 560px) {
+    padding: var(--app-spacing-m);
+  }
+}
+
+.title-container {
+    @include flex-column();
+    width: 100%;
+    text-align: center;
+
+    .rake {
+        display: block;
+        width: 45%;
+        padding-bottom: var(--app-spacing-xxl);
+
+        @media screen and (max-width: 1400px) and (min-width: 500px) {
+          min-width: 300px;
+        }
+
+        @media screen and (max-width: 920px) {
+          padding-bottom: var(--app-spacing-l);
+        }
+      
+        @media screen and (max-width: 560px) {
+          padding-bottom: var(--app-spacing-m);
+        }
+
+        @media screen and (max-width: 500px) {
+          min-width: none;
+          width: 80%;
+        }
+    }
+
+    h1 {
+        margin: 0;
+        font-family: var(--accent-font);
+        font-weight: 500;
+        font-size: 3rem;
+        letter-spacing: 2px;
+        text-align: center;
+
+        @media screen and (max-width: 1020px) {
+            font-size: 2.5rem;
+        }
+
+        @media screen and (max-width: 920px) {
+          font-size: 2rem;
+        }
+
+        @media screen and (max-width: 630px) {
+          font-size: 1.5rem;
+        }
+    }
+}
+
+.text-info {
+    text-align: center;
+    margin: 0;
+    font-family: var(--base-font);
+    font-size: 1.25rem;
+    padding: var(--app-spacing-m) var(--app-spacing-xxl) var(--app-spacing-xl);
+    color: var(--text-medium);
+    opacity: 0.7;
+
+    @media screen and (max-width: 920px) {
+      padding: var(--app-spacing-m) var(--app-spacing-xl) var(--app-spacing-l);
+      font-size: 1.15rem;
+    }
+
+    @media screen and (max-width: 630px) {
+      padding: var(--app-spacing-m) var(--app-spacing-l) var(--app-spacing-l);
+      font-size: 1.05rem;
+    }
+}
+
+.token-info {
+    text-align: center;
+    margin: 0;
+    font-family: var(--base-font);
+    font-size: 1.25rem;
+    font-weight: 800;
+    color: var(--secondary-ocean);
+
+    a {
+        display: inline-block;
+    }
+
+    @media screen and (max-width: 540px) {
+      font-size: 0.75rem;
+    }
+}
+
+.connect-button {
+  display: flex;
+  justify-content: center;
+
+  .btn-connect {
+    --btn-solid-color: var(--text-light);
+    --btn-solid-bg: var(--secondary-ocean);
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 0.25rem;
+
+    margin: 0;
+    margin-bottom: var(--app-spacing-xl);
+    padding: 0 var(--app-spacing-l);
+    min-height: var(--app-spacing-xxl);
+    height: fit-content;
+
+    border: none;
+    border-radius: var(--btn-height);
+    background: var(--btn-solid-bg);
+
+    font-family: var(--accent-font);
+    font-size: 1.25rem;
+    font-weight: 400;
+    text-decoration: none;
+    color: var(--btn-solid-color);
+    letter-spacing: 3px;
+    cursor: pointer;
+
+    @media screen and (max-width: 630px) {
+      font-size: 1.15rem;
+    }
+
+    @media screen and (max-width: 540px) {
+      min-height: var(--app-spacing-xl);
+    }
+  }
+}
+
+.wallet-token-info {
+  display: flex;
+  justify-content: center;
+
+  .token-status {
+    padding: var(--app-spacing-l) 0;
+  }
+
+  .one-token {
+    font-weight: 500;
+    text-align: center;
+  }
+
+  .requirements {
+    ul {
+      margin: 0;
+        li {
+            font-family: var(--base-font);
+            font-size: 1rem;
+            opacity: 0.7;
+            margin-bottom: var(--app-spacing-m);
+
+            @media screen and (max-width: 540px) {
+              font-size: 0.85rem;
+            }
+
+            @media screen and (max-width: 480px) {
+              font-size: 0.75rem;
+            }
+        }
+    }
+  }
+}

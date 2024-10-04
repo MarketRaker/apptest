@@ -1,0 +1,19 @@
+{
+  "weekly_indicators.title": "Wöchentliche Indikatoren",
+  "weekly_indicators.bull_market": "Bullenmarkt",
+  "weekly_indicators.bear_market": "Bärenmarkt",
+  "weekly_indicators.loading_bull_indicators": "Laden von Bullenmarktindikatoren...",
+  "weekly_indicators.no_bull_indicators_available": "Keine Bullenmarktindikatoren verfügbar.",
+  "weekly_indicators.loading_bear_indicators": "Laden von Bärenmarktindikatoren...",
+  "weekly_indicators.no_bear_indicators_available": "Keine Bärenmarktindikatoren verfügbar.",
+  "weekly_indicators.show_more": "Mehr anzeigen",
+  "weekly_indicators.show_less": "Weniger anzeigen",
+  "weekly_indicators.indicators": "Indikatoren",
+  "weekly_indicators.bull_market_winning": "Bullenmarkt gewinnt!",
+  "weekly_indicators.bear_market_winning": "Bärenmarkt gewinnt!",
+  "weekly_indicators.tie": "Es ist ein Unentschieden!",
+  "Stocks": "Aktien",
+  "Crypto": "Krypto",
+  "All": "Alle",
+  "error_loading_bull_bear_markets": "Ein Fehler ist beim Laden Ihrer Bull/Bear-Indikatoren aufgetreten."
+}

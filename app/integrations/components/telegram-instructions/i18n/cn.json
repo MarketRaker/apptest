@@ -1,0 +1,18 @@
+{
+  "telegram_instructions.follow_the_steps": "按照步骤完成集成设置",
+  "telegram_instructions.go_to_integrations_page": "前往集成页面",
+  "telegram_instructions.integrations": "集成",
+  "telegram_instructions.next_step": "下一步",
+  "telegram_instructions.previous_step": "上一步",
+  "telegram_instructions.steps.1.header": "步骤1:获取您的Telegram用户ID",
+  "telegram_instructions.steps.1.open_telegram_app": "打开Telegram应用程序, 在联系人搜索栏中搜索“userinfobot”.",
+  "telegram_instructions.steps.1.see_screenshot": "（见截图）",
+  "telegram_instructions.steps.1.step_text_note": "当您找到“@userinfobot”时,请单击它。聊天窗口将出现一个底部带有大型“开始”按钮。\n单击此按钮以接收包含您的用户详细信息的消息.",
+  "telegram_instructions.steps.2.header": "第二步:注册您的Telegram帐户",
+  "telegram_instructions.steps.2.step_text": "为了验证您确实是MarketRaker用户,您需要在Telegram集成页面上注册您的Telegram帐户。为此, 您需要我们在第一步中检索到的Telegram ID。请注意,每个Telegram帐户只需执行此操作一次。单击注册/链接帐户...（图片等）",
+  "telegram_instructions.steps.3.header": "第三步：开始与我们的 Telegram 机器人对话",
+  "telegram_instructions.steps.3.step_text": "（占位符文本）",
+  "telegram_instructions.steps.4.header": "第四步:刷新Telegram集成",
+  "telegram_instructions.steps.4.step_text": "（占位符文本）",
+  "telegram_instructions.telegram": "Telegram"
+}

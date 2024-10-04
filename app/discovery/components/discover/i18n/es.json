@@ -1,0 +1,20 @@
+{
+    "discover.discover_trading_pairs" : "Descubrir pares de trading",
+    "discover.add_more_trading_pairs" : "Añade más pares de trading a tu lista de seguimiento",
+    "discover.filter.recommended" : "Recomendado",
+    "discover.filter.all" : "Todos",
+    "discover.filter.stocks" : "Acciones",
+    "discover.filter.crypto" : "Cripto",
+    "discover.filter.results_for" : "Resultados para ",
+    "discover.suggestions" : "Sugerencias",
+    "discover.trading_pairs" : "Pares de trading que sigues",
+    "discover.search_trading_pairs" : "Buscar pares de trading",
+    "discover.filter.clear" : "Limpiar",
+    "discover.view_watch_list" : "Ver tu lista de seguimiento ",
+    "discover.select_all" : "Seleccionar todo",
+    "discover.view_suggested_trading_pairs" : "Ver pares de trading sugeridos",
+    "discover.remove_all": "Eliminar todo",
+    "discover.add_to_my_watch_list" : "Añadir a mi lista de seguimiento ",
+    "discover.are_you_sure_to_remove_from_watchlist" : "¿Estás seguro de querer eliminar este par de tu lista de seguimiento?",
+    "discover.are_you_sure_to_remove_all_from_watchlist": "¿Estás seguro de querer eliminar todos los pares de tu lista de seguimiento?"
+}

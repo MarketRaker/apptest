@@ -1,0 +1,15 @@
+{
+  "indicator.trend_tooltip": "Tendencia de 3-6 días",
+  "indicator.current_price": "(Precio actual)",
+  "indicator.sell": "Vender",
+  "indicator.buy": "Comprar",
+  "indicator.on": "en",
+  "indicator.ai_close": "Cierre IA:",
+  "indicator.ai_risk": "Riesgo IA:",
+  "indicator.ai_leverage": "Apalancamiento IA:",
+  "indicator.pro_members": "Miembros Pro",
+  "indicator.coming_soon": "(Próximamente)",
+  "indicator.ai_stop_loss": "Stop Loss IA:",
+  "indicator.no_predictions": "No hay predicciones para el período seleccionado en este momento.",
+  "indicator.sign_no_trade": "No Trade"
+}

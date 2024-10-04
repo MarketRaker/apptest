@@ -1,0 +1,5 @@
+{
+  "trade_avatar.last_price": "(DERNIER PRIX)",
+  "trade_avatar.ai_trailing_sl": "(Stop-loss dynamique IA)",
+  "trade_avatar.tooltip.ai_trailing_sl": "Stop-loss dynamique IA pour les positions à plus long terme"
+}

@@ -1,0 +1,40 @@
+{
+  "docs_nav_tree.node_1.name": "Introduction",
+  "docs_nav_tree.node_1.children_1.name": "Qu'est-ce que MarketRaker",
+  "docs_nav_tree.node_1.children_2.name": "Aperçu des fonctionnalités",
+  "docs_nav_tree.node_1.children_3.name": "Comment MarketRaker fonctionne",
+
+  "docs_nav_tree.node_2.name": "Premiers pas",
+  "docs_nav_tree.node_2.children_1.name": "Guide de l'utilisateur débutant",
+  "docs_nav_tree.node_2.children_2.name": "Installation et configuration",
+  "docs_nav_tree.node_2.children_3.name": "Navigation dans le tableau de bord",
+  "docs_nav_tree.node_2.children_4.name": "Intégration Telegram",
+  "docs_nav_tree.node_2.children_5.name": "Intégration Discord",
+  "docs_nav_tree.node_2.children_6.name": "Intégration WebHooks",
+
+  "docs_nav_tree.node_3.name": "Tutoriels (incomplet)",
+  "docs_nav_tree.node_3.children_1.name": "Configuration des indicateurs",
+  "docs_nav_tree.node_3.children_2.name": "Interprétation des insights IA",
+  "docs_nav_tree.node_3.children_3.name": "Personnalisation des modèles IA",
+  "docs_nav_tree.node_3.children_4.name": "Intégration avec les plateformes de trading",
+  "docs_nav_tree.node_3.children_5.name": "Configuration des alertes",
+
+  "docs_nav_tree.node_4.name": "Références",
+  "docs_nav_tree.node_4.children_1.name": "FAQ",
+  "docs_nav_tree.node_4.children_2.name": "Documentation de l'API",
+  "docs_nav_tree.node_4.children_3.name": "Glossaire",
+
+  "docs_nav_tree.node_5.name": "Communauté et support",
+  "docs_nav_tree.node_5.children_1.name": "Rejoindre notre serveur Discord",
+  "docs_nav_tree.node_5.children_2.name": "Rejoindre notre groupe Telegram",
+  "docs_nav_tree.node_5.children_3.name": "Contacter le support",
+
+  "docs_nav_tree.node_6.name": "Notes de version et mises à jour",
+
+  "docs_nav_tree.node_7.name": "Livret blanc v1.0",
+  "docs_nav_tree.node_7.children_1.name": "Introduction",
+  "docs_nav_tree.node_7.children_1.children_1.name": "Idée centrale et proposition de valeur",
+  "docs_nav_tree.node_7.children_1.children_2.name": "Exploitation de technologies avancées",
+  "docs_nav_tree.node_7.children_1.children_3.name": "Une approche globale",
+  "translations_coming_soon": "Les traductions de la documentation seront bientôt disponibles."
+}

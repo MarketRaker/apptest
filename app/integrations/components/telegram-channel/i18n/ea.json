@@ -1,0 +1,15 @@
+{
+  "telegram_channel.connect_your_telegram": "يجب الاتصال بحساب تليجرام الخاص بك",
+  "telegram_channel.instructions": "التعليمات",
+  "telegram_channel.integrations": "التكاملات",
+  "telegram_channel.my_active_telegram_user": "مستخدم تليجرام النشط الخاص بي",
+  "telegram_channel.stay_updated": "ابقَ على اطلاعٍ وحسِّن تجربتك من خلال تلقي إشعارات فورية على",
+  "telegram_channel.steps.1": "الخطوة 1: الاتصال بتطبيق تليجرام",
+  "telegram_channel.steps.2": "الخطوة 2: العثور على معرفي في تيليجرام",
+  "telegram_channel.telegram_with_market_raker": "تليجرام مع ماركت ريكر.",
+  "telegram_integration_added": "تمت إضافة تكامل Telegram بنجاح",
+  "error_adding_telegram_integration": "حدث خطأ أثناء إضافة تكامل Telegram",
+  "fill_required_fields": "يرجى ملء جميع الحقول الإلزامية",
+  "deleting_integration": "جاري حذف التكامل...",
+  "integration_deleted": "تم حذف التكامل بنجاح"
+}

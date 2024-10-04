@@ -1,0 +1,19 @@
+{
+  "weekly_indicators.title": "Indicateurs Hebdomadaires",
+  "weekly_indicators.bull_market": "Marché Haussier",
+  "weekly_indicators.bear_market": "Marché Baissier",
+  "weekly_indicators.loading_bull_indicators": "Chargement des indicateurs haussiers...",
+  "weekly_indicators.no_bull_indicators_available": "Aucun indicateur haussier disponible.",
+  "weekly_indicators.loading_bear_indicators": "Chargement des indicateurs baissiers...",
+  "weekly_indicators.no_bear_indicators_available": "Aucun indicateur baissier disponible.",
+  "weekly_indicators.show_more": "Afficher plus",
+  "weekly_indicators.show_less": "Afficher moins",
+  "weekly_indicators.indicators": "Indicateurs",
+  "weekly_indicators.bull_market_winning": "Le marché haussier gagne!",
+  "weekly_indicators.bear_market_winning": "Le marché baissier gagne!",
+  "weekly_indicators.tie": "C'est une égalité!",
+  "Stocks": "Actions",
+  "Crypto": "Crypto",
+  "All": "Tous",
+  "error_loading_bull_bear_markets": "Une erreur est survenue lors du chargement de vos indicateurs Bull/Bear."
+}

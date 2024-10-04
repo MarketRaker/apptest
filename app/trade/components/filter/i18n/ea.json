@@ -1,0 +1,15 @@
+{
+  "filter.all": "الكل",
+  "filter.crypto": "عملات رقمية",
+  "filter.search": "بحث",
+  "filter.see_all_trading_pairs": "عرض جميع أزواج التداول",
+  "filter.stocks": "أسهم",
+  "filter.your_market_settings": "إعدادات سوقك",
+  "filter.your_preferred_market": "أسواقك المفضلة",
+  "filter.settings": "إعدادات",
+  "filter.indicators": "مؤشرات",
+  "filter.filters": "مرشحات",
+  "filters.select_all": "تحديد الكل",
+  "filters.remove_all": "إزالة الكل",
+  "filters.pairs_selected": "{{activePairsLength}}(من {{filteredWatchedPairsLength}}) أزواج محددة."
+}

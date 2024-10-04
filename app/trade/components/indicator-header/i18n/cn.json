@@ -1,0 +1,13 @@
+{
+  "indicator-header.action": "操作",
+  "indicator-header.time": "时间",
+  "indicator-header.trend": "趋势",
+  "indicator-header.trading_pair": "交易对",
+  "indicator-header.current_price": "当前价格",
+  "indicator-header.trade_on": "交易于",
+  "indicator-header.close": "关闭",
+  "indicator-header.percentage_change": "百分比变化",
+  "indicator-header.risk": "风险",
+  "indicator-header.leverage": "杠杆",
+  "indicator-header.stop_loss": "止损"
+}
