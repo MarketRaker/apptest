@@ -1,0 +1,13 @@
+{
+  "indicator-header.action": "Action",
+  "indicator-header.time": "Heure",
+  "indicator-header.trend": "Tendance",
+  "indicator-header.trading_pair": "Paire de trading",
+  "indicator-header.current_price": "Prix actuel",
+  "indicator-header.trade_on": "Négocier sur",
+  "indicator-header.close": "Fermer",
+  "indicator-header.percentage_change": "Changement en %",
+  "indicator-header.risk": "Risque",
+  "indicator-header.leverage": "Effet de levier",
+  "indicator-header.stop_loss": "Stop Loss"
+}

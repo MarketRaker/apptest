@@ -1,0 +1,19 @@
+{
+  "weekly_indicators.title": "Weekly Indicators",
+  "weekly_indicators.bull_market": "Bull Market",
+  "weekly_indicators.bear_market": "Bear Market",
+  "weekly_indicators.loading_bull_indicators": "Loading Bull Indicators...",
+  "weekly_indicators.no_bull_indicators_available": "No Bull Indicators available.",
+  "weekly_indicators.loading_bear_indicators": "Loading Bear Indicators...",
+  "weekly_indicators.no_bear_indicators_available": "No Bear Indicators available.",
+  "weekly_indicators.show_more": "Show More",
+  "weekly_indicators.show_less": "Show Less",
+  "weekly_indicators.indicators": "Indicators",
+  "weekly_indicators.bull_market_winning": "Bull Market Winning!",
+  "weekly_indicators.bear_market_winning": "Bear Market Winning!",
+  "weekly_indicators.tie": "It's a tie!",
+  "Stocks": "Stocks",
+  "Crypto": "Crypto",
+  "All": "All",
+  "error_loading_bull_bear_markets": "An error occured while loading your Bull/Bear Indicators."
+}

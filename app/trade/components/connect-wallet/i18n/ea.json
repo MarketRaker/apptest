@@ -1,0 +1,13 @@
+{
+  "connect_wallet.connect_to_your_cardano_wallet": "اتصل بمحفظة كاردانو الخاصة بك",
+  "connect_wallet.in_order_to_access_marketraker_you_would_need_to_own_raker_tokens": "للإتصال بماركت ريكر ، ستحتاج إلى امتلاك رصيد ريكر",
+  "connect_wallet.i_have_raker_tokens_conncect_my_wallet": "لدي رصيد ريكر ، قم بتوصيل محفظتي",
+  "connect_wallet.get_raker_tokens": "احصل على رصيد ريكر",
+  "connect_wallet.connect_ada_to_your_wallet": "بمحفظتك ADA قم بتوصيل   ",
+  "connect_wallet.raker_tokens": "رصيد ريكر",
+  "connect_wallet.link_your_ada_wallet": "الخاصةبك ADA قم بتوصيل محفظة  ",
+  "connect_wallet.where_to_get_wallets": "(أين تحصل على المحافظ)",
+  "connect_wallet.1month": "1 شهر",
+  "connect_wallet.lifetime_access": "الولوج مدى الحياة",
+  "connect_wallet.stakeholder_access": "ولوج أصحاب المصلحة"
+}

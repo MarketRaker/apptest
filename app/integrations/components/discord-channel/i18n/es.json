@@ -1,0 +1,12 @@
+{
+  "discord_channel.add_discord_channel" : "Agregar canal de Discord",
+  "discord_channel.description" : "Descripción",
+  "discord_channel.discord_channels" : "Canales de Discord",
+  "discord_channel.discord_with_MarketRaker" : "Discord con MarketRaker",
+  "discord_channel.enter_channel_id" : "Ingrese el ID del canal",
+  "discord_channel.instructions" : "Instrucciones",
+  "discord_channel.interactive_bot" : "BOTS INTERACTIVOS",
+  "discord_channel.invite_marketraketbot" : "Invita a MarketRakerBot a tu servidor de Discord",
+  "discord_channel.notifications" : "NOTIFICACIONES",
+  "discord_channel.stay_updated" : "Mantente actualizado y mejora tu experiencia recibiendo notificaciones en tiempo real en Discord con MarketRaker"
+}

@@ -1,0 +1,340 @@
+:host {
+  --background-green: #f5f7f7;
+
+  --header-current: var(--primary-color-1);
+  --background-current: var(--background-green);
+
+  --shadow-current: 2px 2px 5px #0003;
+
+  /* MAIN STYLING */
+  padding-top: 70px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex: 1 1 auto;
+
+  width: 100%;
+  height: 100%;
+
+  background: url("../../../../assets/images/bg1.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  p {
+    line-height: 1.75rem;
+  }
+
+  .page {
+    display: flex;
+    flex-direction: row;
+  }
+
+  /**/
+
+  /* LAYOUT STYLING */
+  .navbar-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+  }
+
+  mat-sidenav-container {
+    min-height: 100%;
+    overflow-y: auto;
+    // height: 300px !important;
+    transform: none;
+    background-color: transparent;
+    margin: 0 auto !important;
+    // padding-right: 18vw;
+    // @TODO: add the padding and create page navigation with hrefs to sections
+  }
+
+  mat-sidenav {
+    position: fixed;
+    top: 70px;
+    bottom: 0;
+    left: 0;
+    min-width: 260px;
+    height: 100%;
+
+    background-color: #fff;
+    border-right: none;
+  }
+
+  /**/
+
+  /* TREE STYLING */
+  .docs-tree {
+    background-color: transparent;
+    padding: 1rem 0 0 1rem;
+  }
+
+  .docs-tree-invisible {
+    display: none;
+  }
+
+  /*
+  * This padding sets alignment of the nested nodes.
+  */
+  mat-nested-tree-node div[role="group"] {
+    padding-left: 1rem;
+  }
+
+  .docs-tree ul,
+  .docs-tree li {
+    margin-top: 0;
+    margin-bottom: 0;
+    list-style-type: none;
+  }
+
+  .mat-tree {
+    padding: 1rem 0 0 0;
+  }
+
+  .mat-tree-node {
+    padding-left: 1rem;
+    justify-content: space-between;
+    font-family: var(--base-font);
+    font-style: normal;
+    font-size: 1rem;
+  }
+
+  .mat-tree-node:hover,
+  .mat-tree-node.selected {
+    background-color: #ddd;
+  }
+
+  .mat-tree-node.selected {
+    background-color: var(--header-current);
+    color: var(--text-dark);
+    font-weight: 600;
+  }
+
+  .docs-content {
+    background-color: #fff;
+    padding: 1rem 3rem;
+    margin: 0 3rem;
+    max-width: 50rem;
+
+    iframe {
+      width: 47vw;
+      max-width: 47rem;
+      height: 90vh;
+      border: none;
+      display: block; // ensures no extra space around the iframe
+    }
+    .actions {
+      display: flex;
+      flex-direction: row;
+    }
+    .space {
+      display: flex;
+      flex-grow: 1;
+    }
+  }
+
+  /**/
+}
+
+/* CONTENT STYLING */
+/*  Need to use ::ng-deep for incoming external HTML docs, so that the styling for P propagates down. */
+::ng-deep {
+  .docs-content {
+    p {
+      line-height: 2rem;
+    }
+  }
+
+  h2 {
+    border-top: 1px solid #dbdbdb;
+    margin: 0;
+    margin-top: 1.5rem;
+    padding-top: 1.5rem;
+  }
+
+  iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+    display: block; // ensures no extra space around the iframe
+  }
+
+  table {
+    min-width: 100%;
+    margin: 24px 0;
+
+    border-radius: 2px;
+    border-spacing: 0;
+    border-radius: 2px;
+
+    background-color: var(--background-current);
+    box-shadow: var(--shadow-current);
+
+    thead {
+      tr > th {
+        background: var(--header-current);
+        border-bottom: 1px solid #dbdbdb;
+        padding: 8px 24px;
+
+        font-size: small;
+        line-height: 1.8rem;
+        font-weight: 500;
+
+        text-align: left;
+        text-transform: uppercase;
+      }
+    }
+
+    tbody {
+      tr:last-child {
+        border-bottom: none;
+      }
+
+      th,
+      td {
+        padding: 16px;
+        text-align: left;
+        line-height: 2.4rem;
+        vertical-align: baseline;
+
+        border-bottom: 1px solid #dbdbdb;
+      }
+
+      th {
+        max-width: 100px;
+        padding: 13px 32px;
+        text-align: left;
+        font-size: 1.6rem;
+        font-weight: 500;
+        padding: 13px 32px;
+        text-align: left;
+      }
+
+      td {
+        font-weight: 400;
+        padding: 8px 30px;
+      }
+    }
+  }
+
+  p + ul {
+    margin-bottom: 0 !important;
+  }
+
+  ol,
+  ul {
+    font-size: 1rem;
+    line-height: 2rem;
+    font-weight: 400;
+    margin-top: 0px;
+  }
+
+  ol {
+    list-style-type: decimal;
+  }
+
+  ul {
+    list-style-type: circle;
+  }
+
+  .is-helpful {
+    background-color: var(--background-current);
+  }
+
+  .alert,
+  .callout {
+    margin: 24px 0;
+
+    box-shadow: var(--shadow-current);
+  }
+
+  .alert {
+    padding: 16px;
+    border-left: 8px solid var(--header-current);
+
+    header {
+      font-weight: 700;
+    }
+  }
+
+  .callout {
+    padding: 0;
+    border-left: none !important;
+    border-radius: 4px;
+
+    header {
+      line-height: 2.4rem;
+      font-weight: 500;
+      padding: 8px 16px;
+      text-transform: uppercase;
+      background-color: var(--header-current);
+    }
+
+    p {
+      margin: 0;
+      padding: 16px 24px;
+    }
+  }
+
+  .img-box {
+    border-radius: 1px;
+    padding: 32px 32px 12px 32px;
+    box-sizing: border-box;
+    box-shadow: var(--shadow-current);
+
+    margin: 16px 0;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid #dbdbdb;
+    background-color: var(--background-current);
+
+    img {
+      max-width: 100%;
+      height: auto;
+      padding: 8px;
+      margin: auto;
+      border-radius: 4px;
+
+      box-shadow: var(--shadow-current);
+    }
+
+    .img-caption {
+      text-align: end;
+      margin-top: 16px;
+      color: #aaa;
+    }
+  }
+
+  .code {
+    font-size: larger;
+    background-color: var(--text-medium);
+    color: white;
+    white-space: pre-wrap;
+
+    margin: 16px 0;
+    padding: 16px 24px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    pre {
+      margin: 0;
+      padding: 0;
+    }
+  }
+
+  .reviewed {
+    border-top: 1px solid #ccc;
+    font-size: 14px;
+    font-style: italic;
+    text-align: right;
+    padding-top: 0.75rem;
+  }
+}
