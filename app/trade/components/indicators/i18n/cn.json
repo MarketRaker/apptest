@@ -1,0 +1,17 @@
+{
+  "indicators.future_predictions_tooltip": "未来预测",
+  "indicators.todays_predictions_tooltip": "今日预测",
+  "indicators.historical_predictions_tooltip": "历史预测",
+  "indicators.coming_up_button": "即将推出",
+  "indicators.today_button": "过去24小时",
+  "indicators.completed_button": "已完成",
+  "indicators.switch_to_grid_view": "切换到网格视图",
+  "indicators.switch_to_list_view": "切换到列表视图",
+  "indicators.future_price_predictions": "这个功能可以提前24小时预测价格,为您提供交易对的24小时前景。这个创新工具利用先进的人工智能,旨在让您在交易中保持领先。🚀📈",
+  "indicators.current_model_predictions": "MarketRaker当前模型预测从预测日期起的12小时市场运动。此功能使交易者能够提前半天规划他们的策略，增强决策的前瞻性和精确性。在您的交易旅程中保持领先，借助MarketRaker的前瞻性洞察。该模型将随时间改进和增强。🚀🔮",
+  "indicators.historical_indicators_intro": "介绍MarketRaker的历史指标！作为我们模型12小时提前预测的补充，此功能允许您回顾过去的市场趋势。借助我们模型的表现洞察，增强您的策略。MarketRaker结合了反思与前瞻，持续改进以促进您的交易成功。🚀🔮📊",
+  "no_indicators_available": "没有可用的指标。",
+  "no_indicators_message": "没有可显示的指标。请从您的",
+  "preferred_markets": "首选市场",
+  "open_your_preferred_markets": "打开您的首选市场"
+}
