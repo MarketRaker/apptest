@@ -1,0 +1,10 @@
+{
+  "telegram_channel.connect_your_telegram" : "您仍需连接您的 Telegram 帐户",
+  "telegram_channel.instructions" : "说明",
+  "telegram_channel.integrations" : "集成",
+  "telegram_channel.my_active_telegram_user" : "我的活跃 Telegram 用户",
+  "telegram_channel.stay_updated" : "通过实时接收通知保持更新并增强您的体验",
+  "telegram_channel.steps.1" : "步骤1：连接Telegram",
+  "telegram_channel.steps.2" : "第二步：查找我的Telegram ID",
+  "telegram_channel.telegram_with_market_raker" : "使用MarketRaker的Telegram。"
+}

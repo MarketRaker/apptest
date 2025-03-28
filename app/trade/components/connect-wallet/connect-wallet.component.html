@@ -1,0 +1,49 @@
+<div class="container">
+    <div class="title-container">
+        <img class="rake" src="../../../../assets/images/MARKETRAKER_LOGO_RC_WITH_TEXT.png" />
+
+        <h1><span>{{_t("connect_wallet.connect_to_your_cardano_wallet","Connect to your Cardano&nbsp;wallet")}}</span></h1>
+    </div>
+
+    <p class="text-info">
+        {{_t("connect_wallet.in_order_to_access_marketraker_you_would_need_to_own_raker_tokens","In order to access MarketRaker you would need to own RAKER Tokens" )}}
+    </p>
+
+    <div class="connect-button">
+        <button class="btn-connect" (click)="openModal()">
+            {{_t("connect_wallet.i_have_raker_tokens_conncect_my_wallet","I have RAKER TOKENS, connect my wallet")}}
+        </button>
+    </div>
+    <div class="connect-button">
+        <a class="btn-connect" target="_blank" href="https://app.minswap.org/swap?currencySymbolA=&tokenNameA=&currencySymbolB=ace2ea0fe142a3687acf86f55bcded860a920864163ee0d3dda8b602&tokenNameB=52414b4552">
+            {{_t("connect_wallet.get_raker_tokens",'GET RAKER TOKENS')}}
+        </a>
+    </div>
+
+    <p class="token-info">
+        {{_t("connect_wallet.connect_ada_to_your_wallet", "Connect ADA to your wallet")}}
+    </p>
+
+    <div class="wallet-token-info">
+        <div class="requirements">
+            <div class="token-status">
+                <p class="one-token">{{_t("connect_wallet.1month","1 Month =")}} {{tokensPerMonthRequired}} {{_t("connect_wallet.raker_tokens","RAKER Tokens")}}</p>
+                <p class="one-token">{{_t("connect_wallet.lifetime_access","Lifetime access =")}} {{tokensUnlimitedAccess}} {{_t("connect_wallet.raker_tokens","RAKER Tokens")}}</p>
+                <p class="one-token">{{_t("connect_wallet.stakeholder_access","Stakeholder access =")}} {{tokensStakeHolderAccess}} {{_t("connect_wallet.raker_tokens","RAKER Tokens")}}</p>
+            </div>
+            <ul>
+                <li>
+                    {{_t("connect_wallet.link_your_ada_wallet","Link your ADA wallet ")}}
+                </li>
+                <li>
+                    {{_t("connect_wallet.where_to_get_wallets","(Where to get wallets) ")}}
+                    <br/><a target="_blank" href="https://eternl.io/"> https://eternl.io/ </a>
+                    <br/><a target="_blank" href="https://yoroi-wallet.com/"> https://yoroi-wallet.com/ </a>
+                </li>
+            </ul>
+        </div>
+
+    </div>
+</div>
+
+<app-connect-wallet-modal [isOpen]="isModalOpen" (closeModal)="closeModal()"></app-connect-wallet-modal>

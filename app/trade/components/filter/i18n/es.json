@@ -1,0 +1,12 @@
+{
+  "filter.all": "TODOS",
+  "filter.crypto": "CRYPTO",
+  "filter.search": "Búsqueda",
+  "filter.see_all_trading_pairs": "Ver todos los pares de trading",
+  "filter.stocks": "Acciones",
+  "filter.your_market_settings": "Su configuración de mercado",
+  "filter.your_preferred_market": "Sus mercados preferidos",
+  "filters.select_all": "Seleccionar todo",
+  "filters.remove_all": "Eliminar todo",
+  "filters.pairs_selected": "{{activePairsLength}}(de {{filteredWatchedPairsLength}}) pares seleccionados."
+}

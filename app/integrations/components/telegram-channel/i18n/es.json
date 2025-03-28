@@ -1,0 +1,10 @@
+{
+  "telegram_channel.connect_your_telegram" : "Todavía necesitas conectar tu cuenta de Telegram",
+  "telegram_channel.instructions" : "Instrucciones",
+  "telegram_channel.integrations" : "Integraciones",
+  "telegram_channel.my_active_telegram_user" : "Mi usuario activo de Telegram",
+  "telegram_channel.stay_updated" : "Mantente actualizado y mejora tu experiencia recibiendo notificaciones en tiempo real en",
+  "telegram_channel.steps.1" : "Paso 1: Conéctate con Telegram",
+  "telegram_channel.steps.2" : "Paso 2: Encuentra mi ID de Telegram",
+  "telegram_channel.telegram_with_market_raker" : "Telegram con MarketRaker."
+}

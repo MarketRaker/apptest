@@ -1,0 +1,22 @@
+{
+  "brand.name": "MARKETRAKER",
+  "navigation.home": "الرئيسية",
+  "navigation.dashboard": "لوحة التحكم",
+  "navigation.discover": "اكتشف",
+  "navigation.profile": "ملفي الشخصي",
+  "navigation.docs": "المستندات",
+  "navigation.momentum_meter": "مؤشر الزخم",
+  "navigation.blog": "المدونة",
+  "actions.get_started": "ابدأ",
+  "actions.login": "تسجيل الدخول",
+  "actions.logout": "تسجيل الخروج",
+  "navigation.integrations": "التكاملات",
+  "theme.change_dark": "التغيير إلى الوضع الداكن",
+  "theme.change_light": "التغيير إلى الوضع الفاتح",
+  "ea": "العربية",
+  "cn": "الصينية",
+  "en": "الإنجليزية",
+  "de": "الألمانية",
+  "fr": "الفرنسية",
+  "es": "الإسبانية"
+}
