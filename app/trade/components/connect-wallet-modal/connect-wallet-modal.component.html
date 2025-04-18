@@ -1,0 +1,23 @@
+<div class="modal" [class.open]="isOpen">
+  <div class="container">
+    <button class="close-button">
+      <mat-icon (click)="onCloseModal()">close</mat-icon>
+    </button>
+    <!-- Modal content -->
+    <div class="modal-content">
+      <h2>{{_t("connect_wallet_modal.connect_your_wallet","Connect Your Wallet")}}</h2>
+      <div class="preferred-wallet-text">{{_t("connect_wallet_modal.choose_your_prefered_wallet","Choose your preferred wallet")}}</div>
+      <div class="wallets-container">
+        <div
+          class="wallet-container"
+          *ngFor="let key of objectKeys(isWalletInstalled)"
+          (click)="onClick(key)"
+          [class.not-installed]="!isWalletInstalled[key]"
+        >
+          <h4>{{ key | walletNames }}</h4>
+          <img [alt]="key | walletNames" [src]="getWalletIcon(key)" />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

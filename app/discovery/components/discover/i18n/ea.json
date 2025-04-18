@@ -1,0 +1,21 @@
+{
+  "discover.discover_trading_pairs": " عرض أزواج التداول ",
+  "discover.add_more_trading_pairs": " إضافة المزيد من أزواج التداول إلى قائمة المتابعة ",
+  "discover.filter.recommended": " موصى به ",
+  "discover.filter.all": " الكل ",
+  "discover.filter.stocks": " الأسهم ",
+  "discover.filter.crypto": " العملات الرقمية ",
+  "discover.filter.results_for": " النتائج لـ ",
+  "discover.suggestions": " اقتراحات ",
+  "discover.trading_pairs": " أزواج التداول التي تراقبها ",
+  "discover.search_trading_pairs": " البحث عن أزواج التداول ",
+  "discover.filter.clear": " إزالة ",
+  "discover.view_watch_list": " عرض قائمة متابعتك ",
+  "discover.select_all": " تحديد الكل ",
+  "discover.view_suggested_trading_pairs": " عرض أزواج التداول المقترحة ",
+  "discover.remove_all": " إزالة الكل ",
+  "discover.add_to_my_watch_list": " أضف إلى قائمة متابعتي ",
+  "discover.are_you_sure_to_remove_from_watchlist": "  تأكيد إزالة هذا الزوج من قائمة متابعتك؟ ",
+  "discover.are_you_sure_to_remove_all_from_watchlist": "  تأكيد إزالة جميع الأزواج من قائمة متابعتك؟ ",
+  "could_not_add_trading_pairs": "تعذر إزالة جميع أزواج التداول."
+}

@@ -1,0 +1,23 @@
+{
+  "indicators.future_predictions_tooltip": "Zukünftige Vorhersagen",
+  "indicators.todays_predictions_tooltip": "Heutige Vorhersagen",
+  "indicators.historical_predictions_tooltip": "Historische Vorhersagen",
+  "indicators.coming_up_button": "Bevorstehend",
+  "indicators.today_button": "Letzte 24 Stunden",
+  "indicators.completed_button": "Abgeschlossen",
+  "indicators.switch_to_grid_view": "Zu Rasteransicht wechseln",
+  "indicators.switch_to_list_view": "Zu Listenansicht wechseln",
+  "indicators.future_price_predictions": "Deze functie voorspelt prijzen 24 uur van tevoren, waardoor u een vooruitzicht van 24 uur op uw handelsparen krijgt. Deze innovatieve tool, die gebruikmaakt van geavanceerde AI, is ontworpen om u een stap voor te blijven in het handelsspel. 🚀📈",
+  "indicators.current_model_predictions": "Das aktuelle Modell von MarketRaker sagt Marktbewegungen 12 Stunden ab dem vorhergesagten Datum voraus. Diese Funktion ermöglicht es Händlern, ihre Strategien mit einem halben Tag Vorsprung zu planen, was die Entscheidungsfindung mit Weitsicht und Präzision verbessert. Bleiben Sie mit den zukunftsweisenden Einblicken von MarketRaker in Ihrer Handelsreise voraus. Das Modell wird über die Zeit verbessert und erweitert. 🚀🔮",
+  "indicators.historical_indicators_intro": "Einführung der historischen Indikatoren von MarketRaker! Ergänzend zu unseren 12-Stunden-Vorhersagen ermöglicht Ihnen diese Funktion, vergangene Markttrends zu überprüfen. Gewinnen Sie Einblicke aus der Leistung unseres Modells, um Ihre Strategie zu verbessern. MarketRaker kombiniert Rückschau mit Vorausschau und verbessert sich kontinuierlich für Ihren Handelserfolg. 🚀🔮📊",
+  "indicators.toggle_market_expansion": "Markterweiterung umschalten",
+  "indicators.see_all_trading_pairs": "Alle Handelspaare anzeigen",
+  "indicators.market_indicators": "Marktindikatoren",
+  "screen_too_small": "Bildschirm zu klein, um die Listenansicht anzuzeigen. Wechsel zur Rasteransicht.",
+  "validity_summary": "Von den {{totalNumOfTrades}} Indikatoren waren {{numvalidTrades}} korrekt mit einer Trefferquote von {{hitRatePercentage}}%.",
+  "validity_summary_2": "Von den {{totalNumOfTrades}} Indikatoren wurden {{numOfTradesAnalysed}} analysiert. Bisher waren {{numvalidTrades}} korrekt mit einer Trefferquote von {{hitRatePercentage}}%.",
+  "no_indicators_available": "Keine Indikatoren verfügbar.",
+  "no_indicators_message": "Es gibt keine Indikatoren zum Anzeigen. Bitte wählen Sie Indikatoren aus Ihren",
+  "preferred_markets": "bevorzugten Märkten",
+  "open_your_preferred_markets": "Öffnen Sie Ihre bevorzugten Märkte"
+}

@@ -1,0 +1,17 @@
+{
+  "notification_channels.telegram": "تليجرام",
+  "notification_channels.discord": "ديسكورد",
+  "notification_channels.api_url": "رابط واجهة برمجة التطبيقات",
+  "notification_channels.go_back": "العودة",
+  "notification_channels.integrations": "التكاملات",
+  "notification_channels.select_metod": "حدد طريقة التكامل الخاصة بك",
+  "feature_list.title_1": "الإشعارات الفورية",
+  "feature_list.description_1": "احصل على إشعار فوري عند توفر مؤشر جديد.",
+  "feature_list.title_2": "دعم التكامل",
+  "feature_list.description_2": "دعم للتكامل مع الخدمات المراسلة مثل ديسكورد وتليجرام.",
+  "feature_list.title_3": "ويب هوك",
+  "feature_list.description_3": "استقبل المؤشرات عبر ويب هوك وقم بتكاملها مع بوت التداول الخاص بك.",
+  "feature_list.title_4": "المؤشرات التاريخية",
+  "feature_list.description_4": "احصل على وصول إلى المؤشرات التاريخية باستخدام واجهة برمجة التطبيقات لـ MarketRaker.",
+  "mkr_pro_required": "لا يوجد وصول - يتطلب الحصول على اشتراك MKR Pro"
+}
