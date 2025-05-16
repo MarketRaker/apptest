@@ -1,0 +1,15 @@
+{
+  "telegram_channel.connect_your_telegram": "Du musst immer noch dein Telegram-Konto verbinden",
+  "telegram_channel.instructions": "Anweisungen",
+  "telegram_channel.integrations": "Integrationen",
+  "telegram_channel.my_active_telegram_user": "Mein aktiver Telegram-Benutzer",
+  "telegram_channel.stay_updated": "Bleiben Sie auf dem Laufenden und verbessern Sie Ihre Erfahrung, indem Sie Echtzeitbenachrichtigungen erhalten für",
+  "telegram_channel.steps.1": "Schritt 1: Verbinde mit Telegram",
+  "telegram_channel.steps.2": "Schritt 2: Finde meine Telegram-ID",
+  "telegram_channel.telegram_with_market_raker": "Telegram mit MarketRaker.",
+  "telegram_integration_added": "Telegram-Integration erfolgreich hinzugefügt",
+  "error_adding_telegram_integration": "Fehler beim Hinzufügen der Telegram-Integration",
+  "fill_required_fields": "Bitte füllen Sie alle erforderlichen Felder aus",
+  "deleting_integration": "Integration wird gelöscht...",
+  "integration_deleted": "Integration erfolgreich gelöscht"
+}

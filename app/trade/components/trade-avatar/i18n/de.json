@@ -1,0 +1,5 @@
+{
+  "trade_avatar.last_price": "(LETZTER PREIS)",
+  "trade_avatar.ai_trailing_sl": "(KI-Trailing-Stop-Loss)",
+  "trade_avatar.tooltip.ai_trailing_sl": "KI-Trailing-Stop-Loss für längerfristige Positionen"
+}

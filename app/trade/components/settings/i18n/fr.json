@@ -1,0 +1,11 @@
+{
+  "indicators.go_back": "Retour",
+  "indicators.market_settings_title": "Vos paramètres de marché",
+  "indicators.manage_notifications": "Gérez vos notifications",
+  "indicators.notifications_info": "Activez ou désactivez les notifications pour les marchés qui vous intéressent. Sélectionnez si vous souhaitez être notifié pour les positions longues ou courtes ou les deux. Pour retirer un marché de votre liste de visualisation, cliquez sur le \"X\".",
+  "indicators.all": "Tout",
+  "indicators.stocks": "Actions",
+  "indicators.crypto": "Crypto",
+  "indicators.search": "Recherche",
+  "indicators.confirmation_message": "Êtes-vous sûr de vouloir retirer cette paire de votre liste de surveillance ?"
+}

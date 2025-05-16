@@ -1,0 +1,22 @@
+{
+  "brand.name": "MARKETRAKER",
+  "navigation.home": "Start",
+  "navigation.dashboard": "Dashboard",
+  "navigation.discover": "Entdecken",
+  "navigation.profile": "Mein Profil",
+  "navigation.docs": "Dokumente",
+  "navigation.momentum_meter": "Momentummeter",
+  "navigation.blog": "Blog",
+  "actions.get_started": "LOSLEGEN",
+  "actions.login": "ANMELDEN",
+  "actions.logout": "Abmelden",
+  "navigation.integrations": "Integrationen",
+  "theme.change_dark": "Zu Dunkelmodus wechseln",
+  "theme.change_light": "Zu Lichtmodus wechseln",
+  "ea": "Arabisch",
+  "cn": "Chinesisch",
+  "en": "Englisch",
+  "de": "Deutsch",
+  "fr": "Französisch",
+  "es": "Spanisch"
+}

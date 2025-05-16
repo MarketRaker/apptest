@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8"/>
+    <title>Marketraker</title>
+    <base href="/"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    <link rel="icon" type="image/x-icon" href="favicon.ico"/>
+    <link rel="stylesheet" href="https://use.typekit.net/mda0rol.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com"/>
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin=""/>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700&amp;display=swap" rel="stylesheet"/>
+    <style>
+       @keyframes bounce {
+
+        0%,
+        100% {
+          transform: scale(1);
+        }
+
+        50% {
+          transform: scale(1.2);
+        }
+        }
+
+        .countdown-timer {
+        position: fixed;
+        bottom: 20px;
+        left: 20px;
+        text-align: center;
+        background-color: #00ECB9;
+        padding: 20px;
+        border-radius: 10px;
+        color: white;
+        margin-bottom: 0;
+        display: none; /* Initially hidden */
+        z-index: 1000;
+        width: 380px;
+
+        @media (max-width: 400px) {
+          width: 280px;
+        }
+
+        @media (max-width: 320px) {
+          width: 240px;
+        }
+
+        min-height: 300px;
+        transition: all 0.3s ease;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        .countdown-timer.minimized {
+        width: 160px;
+        height: 60px;
+        padding: 15px;
+        min-height: 0;
+        overflow: hidden;
+        .button-group {
+          display: none;
+        }
+        }
+
+        .countdown-timer .minimize-btn {
+        position: absolute;
+        top: 10px;
+        right: 0px;
+        background: rgba(0, 0, 0, 0.2);
+        border: none;
+        color: white;
+        width: 24px;
+        margin-right: 10px;
+        height: 24px;
+        border-radius: 4px;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        }
+
+        .countdown-timer.minimized .minimize-btn {
+        transform: rotate(180deg);
+        }
+
+        .countdown-timer.minimized .timer-grid,
+        .countdown-timer.minimized h2 {
+        display: none;
+        }
+
+        .countdown-timer.minimized .minimized-text {
+        display: block;
+        }
+
+        .minimized-text {
+        display: none;
+        font-size: 14px;
+        margin: 1px;
+        max-width: 80px;
+        }
+
+        .timer-title {
+        font-size: 1.5rem;
+
+        @media (max-width: 768px) {
+          font-size: 1.2rem;
+        }
+        }
+
+        .timer-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 10px;
+        margin-top: 1rem;
+        }
+
+        .timer-box {
+        background: rgba(0, 0, 0, 0.2);
+        padding: 10px;
+
+        @media (max-width: 768px) {
+          padding: 5px;
+        }
+
+        border-radius: 5px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        }
+
+        .timer-box span:first-child {
+        font-size: 1.5rem;
+        font-weight: bold;
+        background-color: #00796b;
+        padding: 10px;
+        border-radius: 5px;
+        margin-bottom: 10px;
+
+        @media (max-width: 768px) {
+          font-size: 1.2rem;
+        }
+        }
+
+        .timer-label {
+        font-size: 0.8rem;
+        opacity: 0.9;
+
+        @media (max-width: 768px) {
+          font-size: 0.6rem;
+        }
+        }
+
+        @media (max-width: 768px) {
+        .timer-grid {
+          grid-template-columns: repeat(2, 1fr);
+        }
+        }
+
+        @media (max-width: 480px) {
+        .timer-grid {
+          grid-template-columns: repeat(1, 1fr);
+
+          .timer-box span:first-child {
+            font-size: 1.2rem;
+          }
+        }
+        }
+    </style>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"/>
+    <!-- Google tag (gtag.js) -->
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-JDFW4MZLGR"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-JDFW4MZLGR');
+    </script>
+    <script>
+      (function (w, d, s, o, f, js, fjs) {
+        w["botsonic_widget"] = o;
+        w[o] =
+          w[o] ||
+          function () {
+            (w[o].q = w[o].q || []).push(arguments);
+          };
+        (js = d.createElement(s)), (fjs = d.getElementsByTagName(s)[0]);
+        js.id = o;
+        js.src = f;
+        js.async = 1;
+        fjs.parentNode.insertBefore(js, fjs);
+      })(window, document, "script", "Botsonic", "https://widget.writesonic.com/CDN/botsonic.min.js");
+      Botsonic("init", {
+        serviceBaseUrl: "https://api.botsonic.ai",
+        token: "3cf9a1d7-b1e1-49b8-abc3-6fcdb9821bc8",
+      });
+    </script>
+  <link rel="stylesheet" href="styles.css"></head>
+  <body>
+    <div id="countdown" class="countdown-timer">
+      <button class="minimize-btn" id="minimizeBtn">−</button>
+      <h2 class="timer-title" data-i18n="launching_soon">LAUNCHING NEW VERSION SOON</h2>
+      <p class="minimized-text" data-i18n="launching_soon_minimized">Launch Countdown</p>
+      <div class="timer-grid">
+        <div class="timer-box">
+          <span id="days">30</span>
+          <span class="timer-label" data-i18n="days">Days</span>
+        </div>
+        <div class="timer-box">
+          <span id="hours">0</span>
+          <span class="timer-label" data-i18n="hours">Hours</span>
+        </div>
+        <div class="timer-box">
+          <span id="minutes">0</span>
+          <span class="timer-label" data-i18n="minutes">Minutes</span>
+        </div>
+        <div class="timer-box">
+          <span id="seconds">0</span>
+          <span class="timer-label" data-i18n="seconds">Seconds</span>
+        </div>
+      </div>
+    </div>
+    <app-root></app-root>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        const countdownElement = document.getElementById('countdown');
+        const daysElement = document.getElementById('days');
+        const hoursElement = document.getElementById('hours');
+        const minutesElement = document.getElementById('minutes');
+        const secondsElement = document.getElementById('seconds');
+        const minimizeBtn = document.getElementById('minimizeBtn');
+        const countdownTimer = document.getElementById('countdown');
+
+        const milestones = [
+          { date: new Date('2024-12-17T18:00:00'), name: 'Launch' },
+        ];
+
+        function updateCountdown() {
+          const now = new Date();
+          const nextMilestone = milestones.find(milestone => {
+            const timeDiff = milestone.date - now;
+            return timeDiff > 0 && timeDiff <= 30 * 24 * 60 * 60 * 1000; // 30 days
+          });
+
+
+          if (nextMilestone) {
+            // Force display block and log for debugging
+            countdownElement.style.display = 'block';
+            console.log('Timer should be visible:', countdownElement.style.display);
+
+            const timeDiff = nextMilestone.date - now;
+
+            const days = Math.floor(timeDiff / (1000 * 60 * 60 * 24));
+            const hours = Math.floor((timeDiff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            const minutes = Math.floor((timeDiff % (1000 * 60 * 60)) / (1000 * 60));
+            const seconds = Math.floor((timeDiff % (1000 * 60)) / 1000);
+
+            daysElement.textContent = String(days).padStart(2, '0');
+            hoursElement.textContent = String(hours).padStart(2, '0');
+            minutesElement.textContent = String(minutes).padStart(2, '0');
+            secondsElement.textContent = String(seconds).padStart(2, '0');
+          } else {
+            countdownElement.style.display = 'none';
+          }
+        }
+
+        minimizeBtn.addEventListener('click', function() {
+          countdownTimer.classList.toggle('minimized');
+          minimizeBtn.textContent = countdownTimer.classList.contains('minimized') ? '+' : '−';
+          localStorage.setItem('countdownMinimized', countdownTimer.classList.contains('minimized'));
+        });
+
+        // Initialize countdown in non-minimized state
+        countdownTimer.classList.remove('minimized');
+        minimizeBtn.textContent = '−';
+        localStorage.setItem('countdownMinimized', 'false');
+
+        // Update countdown every second
+        setInterval(updateCountdown, 1000);
+        updateCountdown(); // Initial update
+      });
+    </script>
+  <script src="runtime.js" type="module"></script><script src="polyfills.js" type="module"></script><script src="vendor.js" type="module"></script><script src="main.js" type="module"></script></body>
+</html>
