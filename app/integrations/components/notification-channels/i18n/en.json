@@ -1,0 +1,17 @@
+{
+  "notification_channels.telegram": "Telegram",
+  "notification_channels.discord": "Discord",
+  "notification_channels.api_url": "API URL",
+  "notification_channels.go_back": "Go Back",
+  "notification_channels.integrations": "Integrations",
+  "notification_channels.select_metod": "Select your integration method",
+  "feature_list.title_1": "Instant Notifications",
+  "feature_list.description_1": "Get notified instantly when a new indicator is available.",
+  "feature_list.title_2": "Integration Support",
+  "feature_list.description_2": "Support for both Discord and Telegram integrations.",
+  "feature_list.title_3": "Webhooks",
+  "feature_list.description_3": "Receive indicators via webhooks and integrate your own trading bot.",
+  "feature_list.title_4": "Historical Indicators",
+  "feature_list.description_4": "Get access to historical indicators using the MarketRaker API.",
+  "mkr_pro_required": "NO ACCESS - MKR Pro Access required"
+}

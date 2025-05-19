@@ -1,0 +1,14 @@
+{
+  "risk_scenario_1": "Risikostufe 1 (Sehr geringes Risiko): Szenario: Ich bin bereit, 5% meines anfänglichen Investments von $1000 zu riskieren. Das bedeutet, dass ich einen Verlust von $50 akzeptieren kann und einen Gewinn von $100 anstrebe.",
+  "risk_scenario_2": "Risikostufe 2 (Niedriges Risiko): Szenario: Ich bin bereit, 10% meines anfänglichen Investments von $1000 zu riskieren. Das bedeutet, dass ich einen Verlust von $100 akzeptieren kann und einen Gewinn von $200 anstrebe.",
+  "risk_scenario_3": "Risikostufe 3 (Niedriges bis mäßiges Risiko): Szenario: Ich bin bereit, 15% meines anfänglichen Investments von $1000 zu riskieren. Das bedeutet, dass ich einen Verlust von $150 akzeptieren kann und einen Gewinn von $300 anstrebe.",
+  "risk_scenario_4": "Risikostufe 4 (Mäßiges Risiko): Szenario: Ich bin bereit, 20% meines anfänglichen Investments von $1000 zu riskieren. Das bedeutet, dass ich einen Verlust von $200 akzeptieren kann und einen Gewinn von $400 anstrebe.",
+  "risk_scenario_5": "Risikostufe 5 (Mäßiges bis hohes Risiko): Szenario: Ich bin bereit, 25% meines anfänglichen Investments von $1000 zu riskieren. Das bedeutet, dass ich einen Verlust von $250 akzeptieren kann und einen Gewinn von $500 anstrebe.",
+  "risk_scenario_6": "Risikostufe 6 (Hohes Risiko): Szenario: Ich bin bereit, 30% meines anfänglichen Investments von $1000 zu riskieren. Das bedeutet, dass ich einen Verlust von $300 akzeptieren kann und einen Gewinn von $600 anstrebe.",
+  "risk_scenario_7": "Risikostufe 7 (Sehr hohes Risiko): Szenario: Ich bin bereit, 35% meines anfänglichen Investments von $1000 zu riskieren. Das bedeutet, dass ich einen Verlust von $350 akzeptieren kann und einen Gewinn von $700 anstrebe.",
+  "risk_scenario_8": "Risikostufe 8 (Extrem hohes Risiko): Szenario: Ich bin bereit, 40% meines anfänglichen Investments von $1000 zu riskieren. Das bedeutet, dass ich einen Verlust von $400 akzeptieren kann und einen Gewinn von $800 anstrebe.",
+  "risk_scenario_9": "Risikostufe 9 (Nahezu vollständiges Risiko): Szenario: Ich bin bereit, 50% meines anfänglichen Investments von $1000 zu riskieren. Das bedeutet, dass ich einen Verlust von $500 akzeptieren kann und einen Gewinn von $1000 anstrebe.",
+  "risk_scenario_10": "Risikostufe 10 (Vollständiges Risiko): Szenario: Ich bin bereit, 60% meines anfänglichen Investments von $1000 zu riskieren. Das bedeutet, dass ich einen Verlust von $600 akzeptieren kann und einen Gewinn von $1200 anstrebe.",
+  "risk_appetite_updated_successfully": "Risikobereitschaft erfolgreich aktualisiert",
+  "failed_to_update_risk_appetite": "Fehler beim Aktualisieren der Risikobereitschaft"
+}

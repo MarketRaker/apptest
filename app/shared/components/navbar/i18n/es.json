@@ -1,0 +1,22 @@
+{
+  "brand.name": "MARKETRAKER",
+  "navigation.home": "Inicio",
+  "navigation.dashboard": "Panel de control",
+  "navigation.discover": "Descubrir",
+  "navigation.profile": "Mi perfil",
+  "navigation.docs": "Documentos",
+  "navigation.blog": "Blog",
+  "navigation.momentum_meter": "Medidor de momentum",
+  "actions.get_started": "EMPEZAR",
+  "actions.login": "INICIAR SESIÓN",
+  "actions.logout": "Cerrar sesión",
+  "navigation.integrations": "Integraciones",
+  "theme.change_dark": "Cambiar a modo oscuro",
+  "theme.change_light": "Cambiar a modo claro",
+  "ea": "Arabic",
+  "cn": "Chinese",
+  "en": "English",
+  "de": "German",
+  "fr": "French",
+  "es": "Spanish"
+}

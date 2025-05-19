@@ -1,0 +1,18 @@
+{
+  "telegram_instructions.follow_the_steps" : "Folgen Sie den Schritten, um die Integrations-Einrichtung abzuschließen",
+  "telegram_instructions.go_to_integrations_page" : "Gehe zur Integrationen-Seite",
+  "telegram_instructions.integrations" : "Integrationen",
+  "telegram_instructions.next_step" : "Nächster Schritt",
+  "telegram_instructions.previous_step" : "Vorheriger Schritt",
+  "telegram_instructions.steps.1.header" : "Schritt 1: Holen Sie sich Ihre Telegram-Benutzer-ID",
+  "telegram_instructions.steps.1.open_telegram_app" : "Öffne deine Telegram-App und suche nach \"userinfobot\" in der Suchleiste für Kontakte",
+  "telegram_instructions.steps.1.see_screenshot" : "(Siehe Screenshot)",
+  "telegram_instructions.steps.1.step_text_note" : "Wenn Sie auf „@userinfobot“ stoßen, klicken Sie darauf. Ein Chatfenster wird angezeigt, mit einem großen „Start“-Button unten. Klicken Sie auf diesen Button, um eine Nachricht mit Ihren Benutzerdetails zu erhalten.",
+  "telegram_instructions.steps.2.header" : "Schritt 2: Registrieren Sie Ihr Telegram-Konto",
+  "telegram_instructions.steps.2.step_text" : "Um zu überprüfen, dass Sie tatsächlich ein MarketRaker-Benutzer sind, müssen Sie Ihr Telegram-Konto auf der Telegram-Integrationsseite registrieren. Dazu benötigen Sie Ihre Telegramm-ID, die wir im ersten Schritt abgerufen haben. Beachten Sie, dass Sie dies nur einmal für jedes Telegramm-Konto tun müssen. Klicken Sie auf Konto registrieren/verknüpfen... (Bilder usw.)",
+  "telegram_instructions.steps.3.header" : "Schritt 3: Starte eine Konversation mit unserem Telegram-Bot",
+  "telegram_instructions.steps.3.step_text" : "(Platzhaltertext)",
+  "telegram_instructions.steps.4.header" : "Schritt 4: Aktualisieren Sie die Telegram-Integrationen",
+  "telegram_instructions.steps.4.step_text" : "(Platzhaltertext)",
+  "telegram_instructions.telegram" : "Telegram"
+}

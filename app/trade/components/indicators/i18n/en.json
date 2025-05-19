@@ -1,0 +1,23 @@
+{
+  "indicators.future_predictions_tooltip": "Future predictions",
+  "indicators.todays_predictions_tooltip": "Today's Predictions",
+  "indicators.historical_predictions_tooltip": "Historical Predictions",
+  "indicators.coming_up_button": "Coming Up",
+  "indicators.today_button": "Last 24 hours",
+  "indicators.completed_button": "Completed",
+  "indicators.switch_to_grid_view": "Switch to Grid View",
+  "indicators.switch_to_list_view": "Switch to List View",
+  "indicators.future_price_predictions": "This feature forecasts prices 24 hours in advance, giving you a 24-hour outlook on your trading pairs. This innovative tool, leveraging advanced AI, is designed to keep you a step ahead in the trading game.  🚀📈",
+  "indicators.current_model_predictions": "MarketRaker's current model predicts market movements 12 hours from the predicted date. This feature enables traders to plan their strategies with a half-day lead, enhancing decision-making with foresight and precision. Stay ahead in your trading journey with MarketRaker's forward-looking insights. The model will be improved and enhanced overtime. 🚀🔮",
+  "indicators.historical_indicators_intro": "Introducing MarketRaker's Historical Indicators! Complementing our model's 12-hour advance predictions, this feature allows you to review past market trends. Gain insight from our model's performance to enhance your strategy. MarketRaker combines hindsight with foresight, continually improving for your trading success. 🚀🔮📊",
+  "indicators.toggle_market_expansion": "Toggle Market Expansion",
+  "indicators.see_all_trading_pairs": "See All Trading Pairs",
+  "indicators.market_indicators": "Market Indicators",
+  "screen_too_small": "Screen too small to display list view. Switching to grid view.",
+  "validity_summary": "Out of the {{totalNumOfTrades}} indicators, {{numvalidTrades}} were correct with a {{hitRatePercentage}}% hit rate.",
+  "validity_summary_2": "Out of the {{totalNumOfTrades}} indicators, {{numOfTradesAnalysed}} have been analysed. So far, {{numvalidTrades}} were correct with a {{hitRatePercentage}}% hit rate.",
+  "no_indicators_available": "No Indicators available.",
+  "no_indicators_message": "There are no indicators to display. Please select indicators from your",
+  "preferred_markets": "preferred markets",
+  "open_your_preferred_markets": "Open Your Preferred Markets"
+}

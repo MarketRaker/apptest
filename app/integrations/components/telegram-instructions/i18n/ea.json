@@ -1,0 +1,18 @@
+{
+  "telegram_instructions.follow_the_steps" : "اتبع الخطوات لإكمال إعداد التكامل",
+  "telegram_instructions.go_to_integrations_page" : "انتقل إلى صفحة التكاملات",
+  "telegram_instructions.integrations" : "التكاملات",
+  "telegram_instructions.next_step" : "الخطوة التالية",
+  "telegram_instructions.previous_step" : "الخطوة السابقة",
+  "telegram_instructions.steps.1.header" : "الخطوة 1: الحصول على معرف المستخدم الخاص بك في تليجرام",
+  "telegram_instructions.steps.1.open_telegram_app" : "افتح تطبيق التيليجرام الخاص بك وابحث عن \"userinfobot\" في شريط البحث عن جهات الاتصال",
+  "telegram_instructions.steps.1.see_screenshot" : "(انظر الصورة المرفقة)",
+  "telegram_instructions.steps.1.step_text_note" : "عندما تجد \"@userinfobot\"، انقر عليه.\nسيظهر نافذة دردشة مع زر \"بدء\" كبير في الأسفل.\nانقر على هذا الزر لتلقي رسالة تحتوي على تفاصيل المستخدم الخاصة بك.",
+  "telegram_instructions.steps.2.header" : "الخطوة 2: تسجيل حساب تليجرام الخاص بك",
+  "telegram_instructions.steps.2.step_text" : "للتحقق من أنك مستخدم، ستحتاج إلى تسجيل الحساب  الخاص بك على صفحة التكاملات في تيليجرام. للقيام بذلك، ستحتاج إلى معرف تيليجرام الذي استرددناه في الخطوة الأولى. يرجى ملاحظة أنه سيتعين عليك القيام بذلك مرة واحدة فقط لكل حساب . انقر على تسجيل / ربط الحساب... (الصور إلخ)",
+  "telegram_instructions.steps.3.header" : "الخطوة 3: ابدأ محادثة مع بوت تليجرام الخاص بنا",
+  "telegram_instructions.steps.3.step_text" : "(نص العنصر النائب)",
+  "telegram_instructions.steps.4.header" : "الخطوة 4: قم بتحديث تكاملات تيليجرام",
+  "telegram_instructions.steps.4.step_text" : "(نص العنصر النائب)",
+  "telegram_instructions.telegram" : "تليجرام"
+}

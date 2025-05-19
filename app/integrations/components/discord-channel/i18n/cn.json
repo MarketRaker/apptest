@@ -1,0 +1,12 @@
+{
+  "discord_channel.add_discord_channel": "添加 Discord 频道",
+  "discord_channel.description": "描述",
+  "discord_channel.discord_channels": "Discord 频道",
+  "discord_channel.discord_with_MarketRaker": "与MarketRaker的Discord",
+  "discord_channel.enter_channel_id": "输入频道 ID",
+  "discord_channel.instructions": "说明",
+  "discord_channel.interactive_bot": "交互式机器人",
+  "discord_channel.invite_marketraketbot": "邀请 MarketRakerBot 加入您的 Discord 服务器",
+  "discord_channel.notifications": "通知",
+  "discord_channel.stay_updated": "通过在Discord上接收实时通知,保持更新并增强您的体验,使用MarketRaker"
+}

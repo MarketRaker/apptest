@@ -1,0 +1,15 @@
+{
+  "telegram_channel.connect_your_telegram": "You still need to connect your Telegram Account",
+  "telegram_channel.instructions": "Instructions",
+  "telegram_channel.integrations": "Integrations",
+  "telegram_channel.my_active_telegram_user": "My Active Telegram User",
+  "telegram_channel.stay_updated": "Stay updated and enhance your experience by receiving realtime notifications to",
+  "telegram_channel.steps.1": "Step1: Connect with Telegram",
+  "telegram_channel.steps.2": "Step2: Find my Telegram ID",
+  "telegram_channel.telegram_with_market_raker": "Telegram with MarketRaker.",
+  "telegram_integration_added": "Successfully added Telegram integration",
+  "error_adding_telegram_integration": "Error adding Telegram integration",
+  "fill_required_fields": "Please fill in all required fields",
+  "deleting_integration": "Deleting integration...",
+  "integration_deleted": "Successfully deleted integration"
+}

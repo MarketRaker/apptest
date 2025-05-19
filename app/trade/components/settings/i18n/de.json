@@ -1,0 +1,11 @@
+{
+  "indicators.go_back": "Zurück",
+  "indicators.market_settings_title": "Ihre Markteinstellungen",
+  "indicators.manage_notifications": "Verwalten Sie Ihre Benachrichtigungen",
+  "indicators.notifications_info": "Aktivieren oder deaktivieren Sie Benachrichtigungen für die Märkte, die Sie interessieren. Wählen Sie, ob Sie über Longs oder Shorts oder beides benachrichtigt werden möchten. Um einen Markt von Ihrer Ansichtsliste zu entfernen, klicken Sie auf das \"X\".",
+  "indicators.all": "Alle",
+  "indicators.stocks": "Aktien",
+  "indicators.crypto": "Krypto",
+  "indicators.search": "Suche",
+  "indicators.confirmation_message": "Sind Sie sicher, dass Sie dieses Paar von Ihrer Beobachtungsliste entfernen möchten?"
+}

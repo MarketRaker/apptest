@@ -1,0 +1,20 @@
+{
+  "indicator.trend_tooltip": "3-6 Tage Trend",
+  "indicator.current_price": "(Aktueller Preis)",
+  "indicator.sell": "Verkaufen",
+  "indicator.buy": "Kaufen",
+  "indicator.on": "am",
+  "indicator.ai_close": "KI-Schluss:",
+  "indicator.ai_risk": "KI-Risiko:",
+  "indicator.ai_leverage": "KI-Hebel:",
+  "indicator.pro_members": "Pro-Mitglieder",
+  "indicator.coming_soon": "(Demnächst)",
+  "indicator.ai_stop_loss": "KI-Stop-Loss:",
+  "indicator.no_predictions": "Es gibt derzeit keine Vorhersagen für den ausgewählten Zeitraum.",
+  "indicator.sign_no_trade": "Kein Handel",
+  "today_at": "Heute um {{timePart}}",
+  "tomorrow_at": "Morgen um {{timePart}}",
+  "yesterday_at": "Gestern um {{timePart}}",
+  "trade_close_summary": "Handel geschlossen am {{formattedDate}} in der {{tradeClosedWindowNumber}}. Stunde des offenen Handels.",
+  "indicator.no_stop_loss": "Kein Stop-Loss"
+}

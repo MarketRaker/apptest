@@ -1,0 +1,12 @@
+{
+  "filter.all": "所有",
+  "filter.crypto": "加密",
+  "filter.search": "搜索",
+  "filter.see_all_trading_pairs": "查看所有交易对",
+  "filter.stocks": "股票",
+  "filter.your_market_settings": "您的市场设置",
+  "filter.your_preferred_market": "您的首选市场",
+  "filters.select_all": "全选",
+  "filters.remove_all": "移除所有",
+  "filters.pairs_selected": "{{activePairsLength}}(共 {{filteredWatchedPairsLength}}) 选定的对."
+}

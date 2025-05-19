@@ -1,0 +1,15 @@
+{
+  "indicator.trend_tooltip": "3-6天趋势",
+  "indicator.current_price": "(当前价格)",
+  "indicator.sell": "卖出",
+  "indicator.buy": "买入",
+  "indicator.on": "在",
+  "indicator.ai_close": "AI平仓:",
+  "indicator.ai_risk": "AI风险:",
+  "indicator.ai_leverage": "AI杠杆:",
+  "indicator.pro_members": "专业会员",
+  "indicator.coming_soon": "(即将推出)",
+  "indicator.ai_stop_loss": "AI止损:",
+  "indicator.no_predictions": "目前为止选定期间内没有预测。",
+  "indicator.sign_no_trade": "买入"
+}

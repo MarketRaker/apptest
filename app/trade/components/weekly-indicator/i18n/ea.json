@@ -1,0 +1,19 @@
+{
+  "indicator.trend_tooltip": "الاتجاه لـ 3-6 أيام",
+  "indicator.current_price": "(السعر الحالي)",
+  "indicator.sell": "بيع",
+  "indicator.buy": "شراء",
+  "indicator.on": "على",
+  "indicator.ai_close": "سعر إغلاق الذكاء الاصطناعي",
+  "indicator.ai_risk": "نسبة مخاطرة الذكاء الاصطناعي",
+  "indicator.ai_leverage": "رافعة الذكاء الاصطناعي",
+  "indicator.pro_members": "أعضاء محترفين",
+  "indicator.coming_soon": "(قريبا)",
+  "indicator.ai_stop_loss": "وقف خسارة الذكاء الاصطناعي",
+  "indicator.no_predictions": "لا توجد توقعات للفترة المحددة في الوقت الحالي",
+  "indicator.sign_no_trade": "غياب التداول ",
+  "today_at": "اليوم في {{timePart}}",
+  "tomorrow_at": "غدًا في {{timePart}}",
+  "yesterday_at": "أمس في {{timePart}}",
+  "trade_close_summary": "تم إغلاق التداول في {{formattedDate}} في الساعة {{tradeClosedWindowNumber}} من التداول المفتوح."
+}

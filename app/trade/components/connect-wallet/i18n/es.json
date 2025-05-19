@@ -1,0 +1,13 @@
+{
+  "connect_wallet.connect_to_your_cardano_wallet": "Conéctate a tu billetera Cardano",
+  "connect_wallet.in_order_to_access_marketraker_you_would_need_to_own_raker_tokens": "Para acceder a MarketRaker, debes tener tokens RAKER",
+  "connect_wallet.i_have_raker_tokens_conncect_my_wallet": "Tengo tokens RAKER, conecta mi billetera",
+  "connect_wallet.get_raker_tokens": "OBTENER TOKENS RAKER",
+  "connect_wallet.connect_ada_to_your_wallet": "Conecta ADA a tu billetera",
+  "connect_wallet.raker_tokens": "Tokens RAKER",
+  "connect_wallet.link_your_ada_wallet": "Vincula tu billetera ADA",
+  "connect_wallet.where_to_get_wallets": "(Dónde obtener billeteras)",
+  "connect_wallet.1month": "1 mes",
+  "connect_wallet.lifetime_access": "Acceso de por vida",
+  "connect_wallet.stakeholder_access": "Acceso para partes interesadas"
+}

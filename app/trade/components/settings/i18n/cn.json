@@ -1,0 +1,11 @@
+{
+  "indicators.go_back": "返回",
+  "indicators.market_settings_title": "您的市场设置",
+  "indicators.manage_notifications": "管理您的通知",
+  "indicators.notifications_info": "启用或禁用您感兴趣的市场通知。选择您想要被通知的是多头还是空头，或者两者都有。要从您的查看列表中移除市场，请点击“X”。",
+  "indicators.all": "全部",
+  "indicators.stocks": "股票",
+  "indicators.crypto": "加密货币",
+  "indicators.search": "搜索",
+  "indicators.confirmation_message": "您确定要从您的观察列表中移除这对吗？"
+}

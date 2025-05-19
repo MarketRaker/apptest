@@ -1,0 +1,11 @@
+{
+  "indicators.go_back": "Go back",
+  "indicators.market_settings_title": "Your Market Settings",
+  "indicators.manage_notifications": "Manage your notifications",
+  "indicators.notifications_info": "Enable or disable notifications for the markets you are interested in. Select whether you want to be notified for longs or shorts or both. To remove a market from your viewing list click on the 'X'.",
+  "indicators.all": "All",
+  "indicators.stocks": "Stocks",
+  "indicators.crypto": "Crypto",
+  "indicators.search": "Search",
+  "indicators.confirmation_message": "Are you sure you want to remove this pair from your watchlist?"
+}

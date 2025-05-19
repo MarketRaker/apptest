@@ -1,0 +1,20 @@
+{
+  "indicator.trend_tooltip": "3-6 Day Trend",
+  "indicator.current_price": "(Current Price)",
+  "indicator.sell": "Sell",
+  "indicator.buy": "Buy",
+  "indicator.on": "on",
+  "indicator.ai_close": "AI Close:",
+  "indicator.ai_risk": "AI Risk:",
+  "indicator.ai_leverage": "AI Leverage:",
+  "indicator.pro_members": "Pro Members",
+  "indicator.coming_soon": "(Coming Soon)",
+  "indicator.ai_stop_loss": "AI Stop Loss:",
+  "indicator.no_predictions": "There are no predictions for the selected period at the moment.",
+  "indicator.sign_no_trade": "No Trade",
+  "today_at": "Today at {{timePart}}",
+  "tomorrow_at": "Tomorrow at {{timePart}}",
+  "yesterday_at": "Yesterday at {{timePart}}",
+  "trade_close_summary": "Trade closed on {{formattedDate}} in the {{tradeClosedWindowNumber}} hour of open trade.",
+  "indicator.no_stop_loss": "No Stop Loss"
+}

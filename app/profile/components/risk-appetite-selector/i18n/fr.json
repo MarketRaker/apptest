@@ -1,0 +1,14 @@
+{
+  "risk_scenario_1": "Niveau de risque 1 (Risque très faible) : Scénario : Je suis prêt à risquer 5 % de mon investissement initial de 1000 $, ce qui signifie que je suis prêt à perdre 50 $ et vise à réaliser un bénéfice de 100 $.",
+  "risk_scenario_2": "Niveau de risque 2 (Risque faible) : Scénario : Je suis prêt à risquer 10 % de mon investissement initial de 1000 $, ce qui signifie que je suis prêt à perdre 100 $ et vise à réaliser un bénéfice de 200 $.",
+  "risk_scenario_3": "Niveau de risque 3 (Risque faible à modéré) : Scénario : Je suis prêt à risquer 15 % de mon investissement initial de 1000 $, ce qui signifie que je suis prêt à perdre 150 $ et vise à réaliser un bénéfice de 300 $.",
+  "risk_scenario_4": "Niveau de risque 4 (Risque modéré) : Scénario : Je suis prêt à risquer 20 % de mon investissement initial de 1000 $, ce qui signifie que je suis prêt à perdre 200 $ et vise à réaliser un bénéfice de 400 $.",
+  "risk_scenario_5": "Niveau de risque 5 (Risque modéré à élevé) : Scénario : Je suis prêt à risquer 25 % de mon investissement initial de 1000 $, ce qui signifie que je suis prêt à perdre 250 $ et vise à réaliser un bénéfice de 500 $.",
+  "risk_scenario_6": "Niveau de risque 6 (Risque élevé) : Scénario : Je suis prêt à risquer 30 % de mon investissement initial de 1000 $, ce qui signifie que je suis prêt à perdre 300 $ et vise à réaliser un bénéfice de 600 $.",
+  "risk_scenario_7": "Niveau de risque 7 (Risque très élevé) : Scénario : Je suis prêt à risquer 35 % de mon investissement initial de 1000 $, ce qui signifie que je suis prêt à perdre 350 $ et vise à réaliser un bénéfice de 700 $.",
+  "risk_scenario_8": "Niveau de risque 8 (Risque extrêmement élevé) : Scénario : Je suis prêt à risquer 40 % de mon investissement initial de 1000 $, ce qui signifie que je suis prêt à perdre 400 $ et vise à réaliser un bénéfice de 800 $.",
+  "risk_scenario_9": "Niveau de risque 9 (Risque presque total) : Scénario : Je suis prêt à risquer 50 % de mon investissement initial de 1000 $, ce qui signifie que je suis prêt à perdre 500 $ et vise à réaliser un bénéfice de 1000 $.",
+  "risk_scenario_10": "Niveau de risque 10 (Risque total) : Scénario : Je suis prêt à risquer 60 % de mon investissement initial de 1000 $, ce qui signifie que je suis prêt à perdre 600 $ et vise à réaliser un bénéfice de 1200 $.",
+  "risk_appetite_updated_successfully": "Mise à jour de l'appétit pour le risque réussie",
+  "failed_to_update_risk_appetite": "Échec de la mise à jour de l'appétit pour le risque"
+}

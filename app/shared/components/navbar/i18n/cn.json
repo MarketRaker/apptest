@@ -1,0 +1,22 @@
+{
+  "brand.name": "MARKETRAKER",
+  "navigation.home": "首页",
+  "navigation.dashboard": "仪表盘",
+  "navigation.discover": "发现",
+  "navigation.profile": "我的简介",
+  "navigation.docs": "文档",
+  "navigation.blog": "博客",
+  "navigation.momentum_meter": "动量计",
+  "actions.get_started": "开始",
+  "actions.login": "登录",
+  "actions.logout": "登出",
+  "navigation.integrations": "集成",
+  "theme.change_dark": "切换到暗模式",
+  "theme.change_light": "切换到亮模式",
+  "ea": "Arabic",
+  "cn": "Chinese",
+  "en": "English",
+  "de": "German",
+  "fr": "French",
+  "es": "Spanish"
+}

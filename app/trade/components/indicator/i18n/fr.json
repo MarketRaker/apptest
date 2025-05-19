@@ -1,0 +1,20 @@
+{
+  "indicator.trend_tooltip": "Tendance sur 3-6 jours",
+  "indicator.current_price": "(Prix actuel)",
+  "indicator.sell": "Vendre",
+  "indicator.buy": "Acheter",
+  "indicator.on": "sur",
+  "indicator.ai_close": "Clôture IA:",
+  "indicator.ai_risk": "Risque IA:",
+  "indicator.ai_leverage": "Effet de levier IA:",
+  "indicator.pro_members": "Membres Pro",
+  "indicator.coming_soon": "(Bientôt disponible)",
+  "indicator.ai_stop_loss": "Stop Loss IA:",
+  "indicator.no_predictions": "Il n'y a pas de prédictions pour la période sélectionnée pour le moment.",
+  "indicator.sign_no_trade": "Pas de transaction",
+  "today_at": "Aujourd'hui à {{timePart}}",
+  "tomorrow_at": "Demain à {{timePart}}",
+  "yesterday_at": "Hier à {{timePart}}",
+  "trade_close_summary": "Transaction clôturée le {{formattedDate}} à la {{tradeClosedWindowNumber}}ème heure de la transaction ouverte.",
+  "indicator.no_stop_loss": "Pas de stop loss"
+}

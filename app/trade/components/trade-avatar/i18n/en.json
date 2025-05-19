@@ -1,0 +1,5 @@
+{
+  "trade_avatar.last_price": "(LAST PRICE)",
+  "trade_avatar.ai_trailing_sl": "(AI TRAILING SL)",
+  "trade_avatar.tooltip.ai_trailing_sl": "AI Trailing Stoploss for longer term positions"
+}

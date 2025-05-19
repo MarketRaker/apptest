@@ -1,0 +1,20 @@
+{
+    "discover.discover_trading_pairs" : "发现交易对",
+    "discover.add_more_trading_pairs" : "向您的观察列表添加更多交易对",
+    "discover.filter.recommended" : "推荐",
+    "discover.filter.all" : "全部",
+    "discover.filter.stocks" : "股票",
+    "discover.filter.crypto" : "加密货币",
+    "discover.filter.results_for" : "搜索结果 ",
+    "discover.suggestions" : "建议",
+    "discover.trading_pairs" : "您关注的交易对",
+    "discover.search_trading_pairs" : "搜索交易对",
+    "discover.filter.clear" : "清除",
+    "discover.view_watch_list" : "查看您的观察列表 ",
+    "discover.select_all" : "全选",
+    "discover.view_suggested_trading_pairs" : "查看建议的交易对",
+    "discover.remove_all": "移除所有",
+    "discover.add_to_my_watch_list" : "添加到我的观察列表 ",
+    "discover.are_you_sure_to_remove_from_watchlist" : "您确定要从观察列表中移除这个对吗？",
+    "discover.are_you_sure_to_remove_all_from_watchlist": "您确定要从观察列表中移除所有对吗？"
+}

@@ -1,0 +1,21 @@
+{
+  "discover.discover_trading_pairs": "Découvrez les paires de trading",
+  "discover.add_more_trading_pairs": "Ajoutez d'autres paires de trading à votre liste de surveillance",
+  "discover.filter.recommended": "Recommandé",
+  "discover.filter.all": "Tous",
+  "discover.filter.stocks": "Actions",
+  "discover.filter.crypto": "Crypto",
+  "discover.filter.results_for": "Résultats pour ",
+  "discover.suggestions": "Suggestions",
+  "discover.trading_pairs": "Paires de trading que vous suivez",
+  "discover.search_trading_pairs": "Rechercher des paires de trading",
+  "discover.filter.clear": "Effacer",
+  "discover.view_watch_list": "Voir votre liste de surveillance",
+  "discover.select_all": "Tout sélectionner",
+  "discover.view_suggested_trading_pairs": "Voir les paires de trading suggérées",
+  "discover.remove_all": "Tout supprimer",
+  "discover.add_to_my_watch_list": "Ajouter à ma liste de surveillance",
+  "discover.are_you_sure_to_remove_from_watchlist": "Êtes-vous sûr de vouloir supprimer cette paire de votre liste de surveillance ?",
+  "discover.are_you_sure_to_remove_all_from_watchlist": "Êtes-vous sûr de vouloir supprimer toutes les paires de votre liste de surveillance ?",
+  "could_not_add_trading_pairs": "Impossible de supprimer toutes les paires de trading."
+}

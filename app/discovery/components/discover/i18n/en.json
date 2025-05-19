@@ -1,0 +1,21 @@
+{
+  "discover.discover_trading_pairs": "Discover Trading Pairs",
+  "discover.add_more_trading_pairs": "Add more trading pairs to your watch list",
+  "discover.filter.recommended": "Recommended",
+  "discover.filter.all": "All",
+  "discover.filter.stocks": "Stocks",
+  "discover.filter.crypto": "Crypto",
+  "discover.filter.results_for": "Results for ",
+  "discover.suggestions": "Suggestions",
+  "discover.trading_pairs": "Trading Pairs you watch",
+  "discover.search_trading_pairs": "Search Trading Pairs",
+  "discover.filter.clear": "Clear",
+  "discover.view_watch_list": "View your watch list ",
+  "discover.select_all": "Select all",
+  "discover.view_suggested_trading_pairs": "View suggested trading pairs",
+  "discover.remove_all": "Remove all",
+  "discover.add_to_my_watch_list": "Add to my watch list ",
+  "discover.are_you_sure_to_remove_from_watchlist": "Are you sure you want to remove this pair from your watchlist?",
+  "discover.are_you_sure_to_remove_all_from_watchlist": "Are you sure you want to remove all pairs from your watchlist?",
+  "could_not_add_trading_pairs": "Could not remove all trading pairs."
+}

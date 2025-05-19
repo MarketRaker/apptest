@@ -1,0 +1,13 @@
+{
+  "connect_wallet.connect_to_your_cardano_wallet": "连接到您的 Cardano 钱包",
+  "connect_wallet.in_order_to_access_marketraker_you_would_need_to_own_raker_tokens": "要访问 MarketRaker，您需要拥有 RAKER 代币",
+  "connect_wallet.i_have_raker_tokens_conncect_my_wallet": "我拥有 RAKER 代币，连接我的钱包",
+  "connect_wallet.get_raker_tokens": "获取 RAKER 代币",
+  "connect_wallet.connect_ada_to_your_wallet": "将 ADA 连接到您的钱包",
+  "connect_wallet.raker_tokens": "RAKER 代币",
+  "connect_wallet.link_your_ada_wallet": "链接您的 ADA 钱包",
+  "connect_wallet.where_to_get_wallets": "(在哪里获取钱包)",
+  "connect_wallet.1month": "1个月",
+  "connect_wallet.lifetime_access": "终身访问",
+  "connect_wallet.stakeholder_access": "利益相关者访问"
+}
